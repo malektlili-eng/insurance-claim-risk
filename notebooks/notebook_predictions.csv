@@ -1,0 +1,2148 @@
+customer_id,claim_probability,prediction,risk_level,recommended_action
+H20000,0.1967,oui,Faible,Auto-approve / fast-track underwriting
+H20001,0.4234,oui,Moyen,Route to standard manual review
+H20002,0.2192,oui,Faible,Auto-approve / fast-track underwriting
+H20003,0.0986,non,Faible,Auto-approve / fast-track underwriting
+H20004,0.3061,oui,Moyen,Route to standard manual review
+H20005,0.1756,non,Faible,Auto-approve / fast-track underwriting
+H20006,0.1114,non,Faible,Auto-approve / fast-track underwriting
+H20007,0.2162,oui,Faible,Auto-approve / fast-track underwriting
+H20008,0.3532,oui,Moyen,Route to standard manual review
+H20009,0.3599,oui,Moyen,Route to standard manual review
+H20010,0.2502,oui,Moyen,Route to standard manual review
+H20011,0.3104,oui,Moyen,Route to standard manual review
+H20012,0.1069,non,Faible,Auto-approve / fast-track underwriting
+H20013,0.2266,oui,Moyen,Route to standard manual review
+H20014,0.0982,non,Faible,Auto-approve / fast-track underwriting
+H20015,0.143,non,Faible,Auto-approve / fast-track underwriting
+H20016,0.487,oui,Élevé,Escalate to senior underwriter + request inspection
+H20017,0.135,non,Faible,Auto-approve / fast-track underwriting
+H20018,0.3459,oui,Moyen,Route to standard manual review
+H20019,0.1282,non,Faible,Auto-approve / fast-track underwriting
+H20020,0.097,non,Faible,Auto-approve / fast-track underwriting
+H20021,0.1062,non,Faible,Auto-approve / fast-track underwriting
+H20022,0.3598,oui,Moyen,Route to standard manual review
+H20023,0.1439,non,Faible,Auto-approve / fast-track underwriting
+H20024,0.387,oui,Moyen,Route to standard manual review
+H20025,0.1194,non,Faible,Auto-approve / fast-track underwriting
+H20026,0.1042,non,Faible,Auto-approve / fast-track underwriting
+H20027,0.2361,oui,Moyen,Route to standard manual review
+H20028,0.3526,oui,Moyen,Route to standard manual review
+H20029,0.2385,oui,Moyen,Route to standard manual review
+H20030,0.1792,oui,Faible,Auto-approve / fast-track underwriting
+H20031,0.2606,oui,Moyen,Route to standard manual review
+H20032,0.0954,non,Faible,Auto-approve / fast-track underwriting
+H20033,0.1806,oui,Faible,Auto-approve / fast-track underwriting
+H20034,0.1451,non,Faible,Auto-approve / fast-track underwriting
+H20035,0.2318,oui,Moyen,Route to standard manual review
+H20036,0.3761,oui,Moyen,Route to standard manual review
+H20037,0.178,oui,Faible,Auto-approve / fast-track underwriting
+H20038,0.2046,oui,Faible,Auto-approve / fast-track underwriting
+H20039,0.2002,oui,Faible,Auto-approve / fast-track underwriting
+H20040,0.0997,non,Faible,Auto-approve / fast-track underwriting
+H20041,0.0886,non,Faible,Auto-approve / fast-track underwriting
+H20042,0.1677,non,Faible,Auto-approve / fast-track underwriting
+H20043,0.1247,non,Faible,Auto-approve / fast-track underwriting
+H20044,0.1464,non,Faible,Auto-approve / fast-track underwriting
+H20045,0.143,non,Faible,Auto-approve / fast-track underwriting
+H20046,0.4204,oui,Moyen,Route to standard manual review
+H20047,0.1317,non,Faible,Auto-approve / fast-track underwriting
+H20048,0.3361,oui,Moyen,Route to standard manual review
+H20049,0.2487,oui,Moyen,Route to standard manual review
+H20050,0.3009,oui,Moyen,Route to standard manual review
+H20051,0.2503,oui,Moyen,Route to standard manual review
+H20052,0.3456,oui,Moyen,Route to standard manual review
+H20053,0.1801,oui,Faible,Auto-approve / fast-track underwriting
+H20054,0.142,non,Faible,Auto-approve / fast-track underwriting
+H20055,0.1832,oui,Faible,Auto-approve / fast-track underwriting
+H20056,0.202,oui,Faible,Auto-approve / fast-track underwriting
+H20057,0.1564,non,Faible,Auto-approve / fast-track underwriting
+H20058,0.1164,non,Faible,Auto-approve / fast-track underwriting
+H20059,0.1151,non,Faible,Auto-approve / fast-track underwriting
+H20060,0.2755,oui,Moyen,Route to standard manual review
+H20061,0.1835,oui,Faible,Auto-approve / fast-track underwriting
+H20062,0.2762,oui,Moyen,Route to standard manual review
+H20063,0.1662,non,Faible,Auto-approve / fast-track underwriting
+H20064,0.3852,oui,Moyen,Route to standard manual review
+H20065,0.4517,oui,Élevé,Escalate to senior underwriter + request inspection
+H20066,0.0988,non,Faible,Auto-approve / fast-track underwriting
+H20067,0.1045,non,Faible,Auto-approve / fast-track underwriting
+H20068,0.1528,non,Faible,Auto-approve / fast-track underwriting
+H20069,0.2444,oui,Moyen,Route to standard manual review
+H20070,0.148,non,Faible,Auto-approve / fast-track underwriting
+H20071,0.2021,oui,Faible,Auto-approve / fast-track underwriting
+H20072,0.0937,non,Faible,Auto-approve / fast-track underwriting
+H20073,0.2114,oui,Faible,Auto-approve / fast-track underwriting
+H20074,0.0748,non,Faible,Auto-approve / fast-track underwriting
+H20075,0.2585,oui,Moyen,Route to standard manual review
+H20076,0.2005,oui,Faible,Auto-approve / fast-track underwriting
+H20077,0.314,oui,Moyen,Route to standard manual review
+H20078,0.3157,oui,Moyen,Route to standard manual review
+H20079,0.4169,oui,Moyen,Route to standard manual review
+H20080,0.2025,oui,Faible,Auto-approve / fast-track underwriting
+H20081,0.0973,non,Faible,Auto-approve / fast-track underwriting
+H20082,0.1364,non,Faible,Auto-approve / fast-track underwriting
+H20083,0.1858,oui,Faible,Auto-approve / fast-track underwriting
+H20084,0.1331,non,Faible,Auto-approve / fast-track underwriting
+H20085,0.1753,non,Faible,Auto-approve / fast-track underwriting
+H20086,0.1783,oui,Faible,Auto-approve / fast-track underwriting
+H20087,0.0998,non,Faible,Auto-approve / fast-track underwriting
+H20088,0.2284,oui,Moyen,Route to standard manual review
+H20089,0.1925,oui,Faible,Auto-approve / fast-track underwriting
+H20090,0.0896,non,Faible,Auto-approve / fast-track underwriting
+H20091,0.3605,oui,Moyen,Route to standard manual review
+H20092,0.3097,oui,Moyen,Route to standard manual review
+H20093,0.228,oui,Moyen,Route to standard manual review
+H20094,0.4144,oui,Moyen,Route to standard manual review
+H20095,0.1892,oui,Faible,Auto-approve / fast-track underwriting
+H20096,0.2104,oui,Faible,Auto-approve / fast-track underwriting
+H20097,0.2526,oui,Moyen,Route to standard manual review
+H20098,0.1376,non,Faible,Auto-approve / fast-track underwriting
+H20099,0.3574,oui,Moyen,Route to standard manual review
+H20100,0.0828,non,Faible,Auto-approve / fast-track underwriting
+H20101,0.2018,oui,Faible,Auto-approve / fast-track underwriting
+H20102,0.2552,oui,Moyen,Route to standard manual review
+H20103,0.3094,oui,Moyen,Route to standard manual review
+H20104,0.1995,oui,Faible,Auto-approve / fast-track underwriting
+H20105,0.3594,oui,Moyen,Route to standard manual review
+H20106,0.138,non,Faible,Auto-approve / fast-track underwriting
+H20107,0.3941,oui,Moyen,Route to standard manual review
+H20108,0.0899,non,Faible,Auto-approve / fast-track underwriting
+H20109,0.0858,non,Faible,Auto-approve / fast-track underwriting
+H20110,0.1535,non,Faible,Auto-approve / fast-track underwriting
+H20111,0.067,non,Faible,Auto-approve / fast-track underwriting
+H20112,0.1458,non,Faible,Auto-approve / fast-track underwriting
+H20113,0.2024,oui,Faible,Auto-approve / fast-track underwriting
+H20114,0.1997,oui,Faible,Auto-approve / fast-track underwriting
+H20115,0.3023,oui,Moyen,Route to standard manual review
+H20116,0.3007,oui,Moyen,Route to standard manual review
+H20117,0.2429,oui,Moyen,Route to standard manual review
+H20118,0.3782,oui,Moyen,Route to standard manual review
+H20119,0.1363,non,Faible,Auto-approve / fast-track underwriting
+H20120,0.3664,oui,Moyen,Route to standard manual review
+H20121,0.2203,oui,Faible,Auto-approve / fast-track underwriting
+H20122,0.1767,oui,Faible,Auto-approve / fast-track underwriting
+H20123,0.1522,non,Faible,Auto-approve / fast-track underwriting
+H20124,0.2552,oui,Moyen,Route to standard manual review
+H20125,0.0994,non,Faible,Auto-approve / fast-track underwriting
+H20126,0.1219,non,Faible,Auto-approve / fast-track underwriting
+H20127,0.1518,non,Faible,Auto-approve / fast-track underwriting
+H20128,0.1843,oui,Faible,Auto-approve / fast-track underwriting
+H20129,0.1651,non,Faible,Auto-approve / fast-track underwriting
+H20130,0.3621,oui,Moyen,Route to standard manual review
+H20131,0.2114,oui,Faible,Auto-approve / fast-track underwriting
+H20132,0.2001,oui,Faible,Auto-approve / fast-track underwriting
+H20133,0.0958,non,Faible,Auto-approve / fast-track underwriting
+H20134,0.3592,oui,Moyen,Route to standard manual review
+H20135,0.3304,oui,Moyen,Route to standard manual review
+H20136,0.3081,oui,Moyen,Route to standard manual review
+H20137,0.422,oui,Moyen,Route to standard manual review
+H20138,0.2969,oui,Moyen,Route to standard manual review
+H20139,0.1066,non,Faible,Auto-approve / fast-track underwriting
+H20140,0.2315,oui,Moyen,Route to standard manual review
+H20141,0.2837,oui,Moyen,Route to standard manual review
+H20142,0.3227,oui,Moyen,Route to standard manual review
+H20143,0.1806,oui,Faible,Auto-approve / fast-track underwriting
+H20144,0.1776,oui,Faible,Auto-approve / fast-track underwriting
+H20145,0.2502,oui,Moyen,Route to standard manual review
+H20146,0.2139,oui,Faible,Auto-approve / fast-track underwriting
+H20147,0.2251,oui,Moyen,Route to standard manual review
+H20148,0.063,non,Faible,Auto-approve / fast-track underwriting
+H20149,0.1581,non,Faible,Auto-approve / fast-track underwriting
+H20150,0.1972,oui,Faible,Auto-approve / fast-track underwriting
+H20151,0.3131,oui,Moyen,Route to standard manual review
+H20152,0.1985,oui,Faible,Auto-approve / fast-track underwriting
+H20153,0.2388,oui,Moyen,Route to standard manual review
+H20154,0.2279,oui,Moyen,Route to standard manual review
+H20155,0.4576,oui,Élevé,Escalate to senior underwriter + request inspection
+H20156,0.2874,oui,Moyen,Route to standard manual review
+H20157,0.4263,oui,Moyen,Route to standard manual review
+H20158,0.3499,oui,Moyen,Route to standard manual review
+H20159,0.1385,non,Faible,Auto-approve / fast-track underwriting
+H20160,0.1283,non,Faible,Auto-approve / fast-track underwriting
+H20161,0.1326,non,Faible,Auto-approve / fast-track underwriting
+H20162,0.2196,oui,Faible,Auto-approve / fast-track underwriting
+H20163,0.3066,oui,Moyen,Route to standard manual review
+H20164,0.1002,non,Faible,Auto-approve / fast-track underwriting
+H20165,0.1467,non,Faible,Auto-approve / fast-track underwriting
+H20166,0.1123,non,Faible,Auto-approve / fast-track underwriting
+H20167,0.2622,oui,Moyen,Route to standard manual review
+H20168,0.0753,non,Faible,Auto-approve / fast-track underwriting
+H20169,0.204,oui,Faible,Auto-approve / fast-track underwriting
+H20170,0.3165,oui,Moyen,Route to standard manual review
+H20171,0.277,oui,Moyen,Route to standard manual review
+H20172,0.3569,oui,Moyen,Route to standard manual review
+H20173,0.2451,oui,Moyen,Route to standard manual review
+H20174,0.1472,non,Faible,Auto-approve / fast-track underwriting
+H20175,0.3185,oui,Moyen,Route to standard manual review
+H20176,0.2582,oui,Moyen,Route to standard manual review
+H20177,0.3337,oui,Moyen,Route to standard manual review
+H20178,0.3081,oui,Moyen,Route to standard manual review
+H20179,0.1051,non,Faible,Auto-approve / fast-track underwriting
+H20180,0.147,non,Faible,Auto-approve / fast-track underwriting
+H20181,0.2102,oui,Faible,Auto-approve / fast-track underwriting
+H20182,0.0695,non,Faible,Auto-approve / fast-track underwriting
+H20183,0.222,oui,Moyen,Route to standard manual review
+H20184,0.3067,oui,Moyen,Route to standard manual review
+H20185,0.2365,oui,Moyen,Route to standard manual review
+H20186,0.1733,non,Faible,Auto-approve / fast-track underwriting
+H20187,0.078,non,Faible,Auto-approve / fast-track underwriting
+H20188,0.3319,oui,Moyen,Route to standard manual review
+H20189,0.3507,oui,Moyen,Route to standard manual review
+H20190,0.3713,oui,Moyen,Route to standard manual review
+H20191,0.1625,non,Faible,Auto-approve / fast-track underwriting
+H20192,0.0695,non,Faible,Auto-approve / fast-track underwriting
+H20193,0.3309,oui,Moyen,Route to standard manual review
+H20194,0.3714,oui,Moyen,Route to standard manual review
+H20195,0.0823,non,Faible,Auto-approve / fast-track underwriting
+H20196,0.1416,non,Faible,Auto-approve / fast-track underwriting
+H20197,0.2042,oui,Faible,Auto-approve / fast-track underwriting
+H20198,0.2588,oui,Moyen,Route to standard manual review
+H20199,0.2474,oui,Moyen,Route to standard manual review
+H20200,0.1205,non,Faible,Auto-approve / fast-track underwriting
+H20201,0.4206,oui,Moyen,Route to standard manual review
+H20202,0.1696,non,Faible,Auto-approve / fast-track underwriting
+H20203,0.1591,non,Faible,Auto-approve / fast-track underwriting
+H20204,0.2764,oui,Moyen,Route to standard manual review
+H20205,0.2058,oui,Faible,Auto-approve / fast-track underwriting
+H20206,0.2667,oui,Moyen,Route to standard manual review
+H20207,0.1087,non,Faible,Auto-approve / fast-track underwriting
+H20208,0.1204,non,Faible,Auto-approve / fast-track underwriting
+H20209,0.2722,oui,Moyen,Route to standard manual review
+H20210,0.2262,oui,Moyen,Route to standard manual review
+H20211,0.2086,oui,Faible,Auto-approve / fast-track underwriting
+H20212,0.24,oui,Moyen,Route to standard manual review
+H20213,0.2908,oui,Moyen,Route to standard manual review
+H20214,0.3834,oui,Moyen,Route to standard manual review
+H20215,0.1732,non,Faible,Auto-approve / fast-track underwriting
+H20216,0.2193,oui,Faible,Auto-approve / fast-track underwriting
+H20217,0.3295,oui,Moyen,Route to standard manual review
+H20218,0.4094,oui,Moyen,Route to standard manual review
+H20219,0.2573,oui,Moyen,Route to standard manual review
+H20220,0.1334,non,Faible,Auto-approve / fast-track underwriting
+H20221,0.2133,oui,Faible,Auto-approve / fast-track underwriting
+H20222,0.4778,oui,Élevé,Escalate to senior underwriter + request inspection
+H20223,0.1362,non,Faible,Auto-approve / fast-track underwriting
+H20224,0.2332,oui,Moyen,Route to standard manual review
+H20225,0.1319,non,Faible,Auto-approve / fast-track underwriting
+H20226,0.1618,non,Faible,Auto-approve / fast-track underwriting
+H20227,0.1631,non,Faible,Auto-approve / fast-track underwriting
+H20228,0.1174,non,Faible,Auto-approve / fast-track underwriting
+H20229,0.1465,non,Faible,Auto-approve / fast-track underwriting
+H20230,0.2326,oui,Moyen,Route to standard manual review
+H20231,0.2907,oui,Moyen,Route to standard manual review
+H20232,0.1863,oui,Faible,Auto-approve / fast-track underwriting
+H20233,0.2428,oui,Moyen,Route to standard manual review
+H20234,0.0981,non,Faible,Auto-approve / fast-track underwriting
+H20235,0.262,oui,Moyen,Route to standard manual review
+H20236,0.1515,non,Faible,Auto-approve / fast-track underwriting
+H20237,0.0998,non,Faible,Auto-approve / fast-track underwriting
+H20238,0.1623,non,Faible,Auto-approve / fast-track underwriting
+H20239,0.3729,oui,Moyen,Route to standard manual review
+H20240,0.0891,non,Faible,Auto-approve / fast-track underwriting
+H20241,0.1836,oui,Faible,Auto-approve / fast-track underwriting
+H20242,0.1332,non,Faible,Auto-approve / fast-track underwriting
+H20243,0.1723,non,Faible,Auto-approve / fast-track underwriting
+H20244,0.1448,non,Faible,Auto-approve / fast-track underwriting
+H20245,0.0746,non,Faible,Auto-approve / fast-track underwriting
+H20246,0.1792,oui,Faible,Auto-approve / fast-track underwriting
+H20247,0.1337,non,Faible,Auto-approve / fast-track underwriting
+H20248,0.2539,oui,Moyen,Route to standard manual review
+H20249,0.3689,oui,Moyen,Route to standard manual review
+H20250,0.4209,oui,Moyen,Route to standard manual review
+H20251,0.0646,non,Faible,Auto-approve / fast-track underwriting
+H20252,0.1771,oui,Faible,Auto-approve / fast-track underwriting
+H20253,0.3768,oui,Moyen,Route to standard manual review
+H20254,0.2645,oui,Moyen,Route to standard manual review
+H20255,0.1827,oui,Faible,Auto-approve / fast-track underwriting
+H20256,0.1495,non,Faible,Auto-approve / fast-track underwriting
+H20257,0.3023,oui,Moyen,Route to standard manual review
+H20258,0.2559,oui,Moyen,Route to standard manual review
+H20259,0.2326,oui,Moyen,Route to standard manual review
+H20260,0.1164,non,Faible,Auto-approve / fast-track underwriting
+H20261,0.3096,oui,Moyen,Route to standard manual review
+H20262,0.1122,non,Faible,Auto-approve / fast-track underwriting
+H20263,0.3111,oui,Moyen,Route to standard manual review
+H20264,0.1427,non,Faible,Auto-approve / fast-track underwriting
+H20265,0.162,non,Faible,Auto-approve / fast-track underwriting
+H20266,0.337,oui,Moyen,Route to standard manual review
+H20267,0.2839,oui,Moyen,Route to standard manual review
+H20268,0.1982,oui,Faible,Auto-approve / fast-track underwriting
+H20269,0.2042,oui,Faible,Auto-approve / fast-track underwriting
+H20270,0.1445,non,Faible,Auto-approve / fast-track underwriting
+H20271,0.3505,oui,Moyen,Route to standard manual review
+H20272,0.198,oui,Faible,Auto-approve / fast-track underwriting
+H20273,0.2629,oui,Moyen,Route to standard manual review
+H20274,0.2113,oui,Faible,Auto-approve / fast-track underwriting
+H20275,0.3282,oui,Moyen,Route to standard manual review
+H20276,0.1387,non,Faible,Auto-approve / fast-track underwriting
+H20277,0.3832,oui,Moyen,Route to standard manual review
+H20278,0.2312,oui,Moyen,Route to standard manual review
+H20279,0.1222,non,Faible,Auto-approve / fast-track underwriting
+H20280,0.3151,oui,Moyen,Route to standard manual review
+H20281,0.1241,non,Faible,Auto-approve / fast-track underwriting
+H20282,0.2705,oui,Moyen,Route to standard manual review
+H20283,0.212,oui,Faible,Auto-approve / fast-track underwriting
+H20284,0.1566,non,Faible,Auto-approve / fast-track underwriting
+H20285,0.4355,oui,Moyen,Route to standard manual review
+H20286,0.2767,oui,Moyen,Route to standard manual review
+H20287,0.3168,oui,Moyen,Route to standard manual review
+H20288,0.1696,non,Faible,Auto-approve / fast-track underwriting
+H20289,0.196,oui,Faible,Auto-approve / fast-track underwriting
+H20290,0.2282,oui,Moyen,Route to standard manual review
+H20291,0.2112,oui,Faible,Auto-approve / fast-track underwriting
+H20292,0.2841,oui,Moyen,Route to standard manual review
+H20293,0.3031,oui,Moyen,Route to standard manual review
+H20294,0.1678,non,Faible,Auto-approve / fast-track underwriting
+H20295,0.1795,oui,Faible,Auto-approve / fast-track underwriting
+H20296,0.4971,oui,Élevé,Escalate to senior underwriter + request inspection
+H20297,0.1986,oui,Faible,Auto-approve / fast-track underwriting
+H20298,0.2839,oui,Moyen,Route to standard manual review
+H20299,0.1162,non,Faible,Auto-approve / fast-track underwriting
+H20300,0.426,oui,Moyen,Route to standard manual review
+H20301,0.1762,oui,Faible,Auto-approve / fast-track underwriting
+H20302,0.2786,oui,Moyen,Route to standard manual review
+H20303,0.1423,non,Faible,Auto-approve / fast-track underwriting
+H20304,0.256,oui,Moyen,Route to standard manual review
+H20305,0.1213,non,Faible,Auto-approve / fast-track underwriting
+H20306,0.2561,oui,Moyen,Route to standard manual review
+H20307,0.2956,oui,Moyen,Route to standard manual review
+H20308,0.2117,oui,Faible,Auto-approve / fast-track underwriting
+H20309,0.1456,non,Faible,Auto-approve / fast-track underwriting
+H20310,0.1121,non,Faible,Auto-approve / fast-track underwriting
+H20311,0.2515,oui,Moyen,Route to standard manual review
+H20312,0.2463,oui,Moyen,Route to standard manual review
+H20313,0.108,non,Faible,Auto-approve / fast-track underwriting
+H20314,0.2542,oui,Moyen,Route to standard manual review
+H20315,0.1621,non,Faible,Auto-approve / fast-track underwriting
+H20316,0.1346,non,Faible,Auto-approve / fast-track underwriting
+H20317,0.2472,oui,Moyen,Route to standard manual review
+H20318,0.1377,non,Faible,Auto-approve / fast-track underwriting
+H20319,0.1669,non,Faible,Auto-approve / fast-track underwriting
+H20320,0.0964,non,Faible,Auto-approve / fast-track underwriting
+H20321,0.1104,non,Faible,Auto-approve / fast-track underwriting
+H20322,0.3777,oui,Moyen,Route to standard manual review
+H20323,0.2383,oui,Moyen,Route to standard manual review
+H20324,0.3674,oui,Moyen,Route to standard manual review
+H20325,0.2095,oui,Faible,Auto-approve / fast-track underwriting
+H20326,0.1003,non,Faible,Auto-approve / fast-track underwriting
+H20327,0.2204,oui,Faible,Auto-approve / fast-track underwriting
+H20328,0.1719,non,Faible,Auto-approve / fast-track underwriting
+H20329,0.1027,non,Faible,Auto-approve / fast-track underwriting
+H20330,0.138,non,Faible,Auto-approve / fast-track underwriting
+H20331,0.107,non,Faible,Auto-approve / fast-track underwriting
+H20332,0.1021,non,Faible,Auto-approve / fast-track underwriting
+H20333,0.193,oui,Faible,Auto-approve / fast-track underwriting
+H20334,0.3163,oui,Moyen,Route to standard manual review
+H20335,0.2,oui,Faible,Auto-approve / fast-track underwriting
+H20336,0.1346,non,Faible,Auto-approve / fast-track underwriting
+H20337,0.2188,oui,Faible,Auto-approve / fast-track underwriting
+H20338,0.14,non,Faible,Auto-approve / fast-track underwriting
+H20339,0.1296,non,Faible,Auto-approve / fast-track underwriting
+H20340,0.4002,oui,Moyen,Route to standard manual review
+H20341,0.1442,non,Faible,Auto-approve / fast-track underwriting
+H20342,0.1938,oui,Faible,Auto-approve / fast-track underwriting
+H20343,0.1393,non,Faible,Auto-approve / fast-track underwriting
+H20344,0.293,oui,Moyen,Route to standard manual review
+H20345,0.1511,non,Faible,Auto-approve / fast-track underwriting
+H20346,0.4214,oui,Moyen,Route to standard manual review
+H20347,0.1718,non,Faible,Auto-approve / fast-track underwriting
+H20348,0.1691,non,Faible,Auto-approve / fast-track underwriting
+H20349,0.178,oui,Faible,Auto-approve / fast-track underwriting
+H20350,0.2949,oui,Moyen,Route to standard manual review
+H20351,0.3639,oui,Moyen,Route to standard manual review
+H20352,0.1067,non,Faible,Auto-approve / fast-track underwriting
+H20353,0.1045,non,Faible,Auto-approve / fast-track underwriting
+H20354,0.2348,oui,Moyen,Route to standard manual review
+H20355,0.2409,oui,Moyen,Route to standard manual review
+H20356,0.5137,oui,Élevé,Escalate to senior underwriter + request inspection
+H20357,0.0648,non,Faible,Auto-approve / fast-track underwriting
+H20358,0.195,oui,Faible,Auto-approve / fast-track underwriting
+H20359,0.2247,oui,Moyen,Route to standard manual review
+H20360,0.2796,oui,Moyen,Route to standard manual review
+H20361,0.2382,oui,Moyen,Route to standard manual review
+H20362,0.2457,oui,Moyen,Route to standard manual review
+H20363,0.3661,oui,Moyen,Route to standard manual review
+H20364,0.1512,non,Faible,Auto-approve / fast-track underwriting
+H20365,0.2548,oui,Moyen,Route to standard manual review
+H20366,0.2209,oui,Faible,Auto-approve / fast-track underwriting
+H20367,0.2869,oui,Moyen,Route to standard manual review
+H20368,0.1029,non,Faible,Auto-approve / fast-track underwriting
+H20369,0.2503,oui,Moyen,Route to standard manual review
+H20370,0.1936,oui,Faible,Auto-approve / fast-track underwriting
+H20371,0.4344,oui,Moyen,Route to standard manual review
+H20372,0.1768,oui,Faible,Auto-approve / fast-track underwriting
+H20373,0.2633,oui,Moyen,Route to standard manual review
+H20374,0.1321,non,Faible,Auto-approve / fast-track underwriting
+H20375,0.3098,oui,Moyen,Route to standard manual review
+H20376,0.2321,oui,Moyen,Route to standard manual review
+H20377,0.3606,oui,Moyen,Route to standard manual review
+H20378,0.1728,non,Faible,Auto-approve / fast-track underwriting
+H20379,0.2154,oui,Faible,Auto-approve / fast-track underwriting
+H20380,0.0726,non,Faible,Auto-approve / fast-track underwriting
+H20381,0.2612,oui,Moyen,Route to standard manual review
+H20382,0.2176,oui,Faible,Auto-approve / fast-track underwriting
+H20383,0.3714,oui,Moyen,Route to standard manual review
+H20384,0.2162,oui,Faible,Auto-approve / fast-track underwriting
+H20385,0.1177,non,Faible,Auto-approve / fast-track underwriting
+H20386,0.2544,oui,Moyen,Route to standard manual review
+H20387,0.1461,non,Faible,Auto-approve / fast-track underwriting
+H20388,0.243,oui,Moyen,Route to standard manual review
+H20389,0.2719,oui,Moyen,Route to standard manual review
+H20390,0.1774,oui,Faible,Auto-approve / fast-track underwriting
+H20391,0.1683,non,Faible,Auto-approve / fast-track underwriting
+H20392,0.1347,non,Faible,Auto-approve / fast-track underwriting
+H20393,0.1143,non,Faible,Auto-approve / fast-track underwriting
+H20394,0.1101,non,Faible,Auto-approve / fast-track underwriting
+H20395,0.2796,oui,Moyen,Route to standard manual review
+H20396,0.3511,oui,Moyen,Route to standard manual review
+H20397,0.2092,oui,Faible,Auto-approve / fast-track underwriting
+H20398,0.1148,non,Faible,Auto-approve / fast-track underwriting
+H20399,0.3563,oui,Moyen,Route to standard manual review
+H20400,0.2413,oui,Moyen,Route to standard manual review
+H20401,0.1442,non,Faible,Auto-approve / fast-track underwriting
+H20402,0.2317,oui,Moyen,Route to standard manual review
+H20403,0.0958,non,Faible,Auto-approve / fast-track underwriting
+H20404,0.1185,non,Faible,Auto-approve / fast-track underwriting
+H20405,0.2537,oui,Moyen,Route to standard manual review
+H20406,0.1169,non,Faible,Auto-approve / fast-track underwriting
+H20407,0.2264,oui,Moyen,Route to standard manual review
+H20408,0.2372,oui,Moyen,Route to standard manual review
+H20409,0.3798,oui,Moyen,Route to standard manual review
+H20410,0.1627,non,Faible,Auto-approve / fast-track underwriting
+H20411,0.186,oui,Faible,Auto-approve / fast-track underwriting
+H20412,0.1019,non,Faible,Auto-approve / fast-track underwriting
+H20413,0.1688,non,Faible,Auto-approve / fast-track underwriting
+H20414,0.1834,oui,Faible,Auto-approve / fast-track underwriting
+H20415,0.4756,oui,Élevé,Escalate to senior underwriter + request inspection
+H20416,0.2945,oui,Moyen,Route to standard manual review
+H20417,0.3058,oui,Moyen,Route to standard manual review
+H20418,0.1411,non,Faible,Auto-approve / fast-track underwriting
+H20419,0.2473,oui,Moyen,Route to standard manual review
+H20420,0.2533,oui,Moyen,Route to standard manual review
+H20421,0.0935,non,Faible,Auto-approve / fast-track underwriting
+H20422,0.1051,non,Faible,Auto-approve / fast-track underwriting
+H20423,0.2212,oui,Moyen,Route to standard manual review
+H20424,0.1999,oui,Faible,Auto-approve / fast-track underwriting
+H20425,0.2696,oui,Moyen,Route to standard manual review
+H20426,0.251,oui,Moyen,Route to standard manual review
+H20427,0.0885,non,Faible,Auto-approve / fast-track underwriting
+H20428,0.3753,oui,Moyen,Route to standard manual review
+H20429,0.4214,oui,Moyen,Route to standard manual review
+H20430,0.1725,non,Faible,Auto-approve / fast-track underwriting
+H20431,0.0848,non,Faible,Auto-approve / fast-track underwriting
+H20432,0.2969,oui,Moyen,Route to standard manual review
+H20433,0.1414,non,Faible,Auto-approve / fast-track underwriting
+H20434,0.1513,non,Faible,Auto-approve / fast-track underwriting
+H20435,0.2927,oui,Moyen,Route to standard manual review
+H20436,0.3859,oui,Moyen,Route to standard manual review
+H20437,0.175,non,Faible,Auto-approve / fast-track underwriting
+H20438,0.2072,oui,Faible,Auto-approve / fast-track underwriting
+H20439,0.3104,oui,Moyen,Route to standard manual review
+H20440,0.2258,oui,Moyen,Route to standard manual review
+H20441,0.1281,non,Faible,Auto-approve / fast-track underwriting
+H20442,0.0794,non,Faible,Auto-approve / fast-track underwriting
+H20443,0.2832,oui,Moyen,Route to standard manual review
+H20444,0.109,non,Faible,Auto-approve / fast-track underwriting
+H20445,0.1278,non,Faible,Auto-approve / fast-track underwriting
+H20446,0.1352,non,Faible,Auto-approve / fast-track underwriting
+H20447,0.2912,oui,Moyen,Route to standard manual review
+H20448,0.1843,oui,Faible,Auto-approve / fast-track underwriting
+H20449,0.1752,non,Faible,Auto-approve / fast-track underwriting
+H20450,0.2846,oui,Moyen,Route to standard manual review
+H20451,0.3025,oui,Moyen,Route to standard manual review
+H20452,0.2493,oui,Moyen,Route to standard manual review
+H20453,0.1257,non,Faible,Auto-approve / fast-track underwriting
+H20454,0.1059,non,Faible,Auto-approve / fast-track underwriting
+H20455,0.2654,oui,Moyen,Route to standard manual review
+H20456,0.3442,oui,Moyen,Route to standard manual review
+H20457,0.2715,oui,Moyen,Route to standard manual review
+H20458,0.1894,oui,Faible,Auto-approve / fast-track underwriting
+H20459,0.1234,non,Faible,Auto-approve / fast-track underwriting
+H20460,0.2842,oui,Moyen,Route to standard manual review
+H20461,0.4293,oui,Moyen,Route to standard manual review
+H20462,0.2567,oui,Moyen,Route to standard manual review
+H20463,0.1817,oui,Faible,Auto-approve / fast-track underwriting
+H20464,0.1438,non,Faible,Auto-approve / fast-track underwriting
+H20465,0.1055,non,Faible,Auto-approve / fast-track underwriting
+H20466,0.218,oui,Faible,Auto-approve / fast-track underwriting
+H20467,0.1686,non,Faible,Auto-approve / fast-track underwriting
+H20468,0.1759,oui,Faible,Auto-approve / fast-track underwriting
+H20469,0.1997,oui,Faible,Auto-approve / fast-track underwriting
+H20470,0.4451,oui,Élevé,Escalate to senior underwriter + request inspection
+H20471,0.2175,oui,Faible,Auto-approve / fast-track underwriting
+H20472,0.1299,non,Faible,Auto-approve / fast-track underwriting
+H20473,0.1868,oui,Faible,Auto-approve / fast-track underwriting
+H20474,0.2311,oui,Moyen,Route to standard manual review
+H20475,0.2228,oui,Moyen,Route to standard manual review
+H20476,0.221,oui,Faible,Auto-approve / fast-track underwriting
+H20477,0.327,oui,Moyen,Route to standard manual review
+H20478,0.1231,non,Faible,Auto-approve / fast-track underwriting
+H20479,0.292,oui,Moyen,Route to standard manual review
+H20480,0.114,non,Faible,Auto-approve / fast-track underwriting
+H20481,0.2658,oui,Moyen,Route to standard manual review
+H20482,0.2526,oui,Moyen,Route to standard manual review
+H20483,0.1511,non,Faible,Auto-approve / fast-track underwriting
+H20484,0.2269,oui,Moyen,Route to standard manual review
+H20485,0.2326,oui,Moyen,Route to standard manual review
+H20486,0.1529,non,Faible,Auto-approve / fast-track underwriting
+H20487,0.1693,non,Faible,Auto-approve / fast-track underwriting
+H20488,0.3548,oui,Moyen,Route to standard manual review
+H20489,0.2824,oui,Moyen,Route to standard manual review
+H20490,0.1488,non,Faible,Auto-approve / fast-track underwriting
+H20491,0.1746,non,Faible,Auto-approve / fast-track underwriting
+H20492,0.2119,oui,Faible,Auto-approve / fast-track underwriting
+H20493,0.2981,oui,Moyen,Route to standard manual review
+H20494,0.1414,non,Faible,Auto-approve / fast-track underwriting
+H20495,0.1817,oui,Faible,Auto-approve / fast-track underwriting
+H20496,0.2892,oui,Moyen,Route to standard manual review
+H20497,0.0619,non,Faible,Auto-approve / fast-track underwriting
+H20498,0.1666,non,Faible,Auto-approve / fast-track underwriting
+H20499,0.4286,oui,Moyen,Route to standard manual review
+H20500,0.2191,oui,Faible,Auto-approve / fast-track underwriting
+H20501,0.2193,oui,Faible,Auto-approve / fast-track underwriting
+H20502,0.3184,oui,Moyen,Route to standard manual review
+H20503,0.3103,oui,Moyen,Route to standard manual review
+H20504,0.4158,oui,Moyen,Route to standard manual review
+H20505,0.262,oui,Moyen,Route to standard manual review
+H20506,0.1881,oui,Faible,Auto-approve / fast-track underwriting
+H20507,0.1668,non,Faible,Auto-approve / fast-track underwriting
+H20508,0.072,non,Faible,Auto-approve / fast-track underwriting
+H20509,0.078,non,Faible,Auto-approve / fast-track underwriting
+H20510,0.3445,oui,Moyen,Route to standard manual review
+H20511,0.2906,oui,Moyen,Route to standard manual review
+H20512,0.1476,non,Faible,Auto-approve / fast-track underwriting
+H20513,0.0835,non,Faible,Auto-approve / fast-track underwriting
+H20514,0.373,oui,Moyen,Route to standard manual review
+H20515,0.1094,non,Faible,Auto-approve / fast-track underwriting
+H20516,0.2916,oui,Moyen,Route to standard manual review
+H20517,0.4084,oui,Moyen,Route to standard manual review
+H20518,0.2483,oui,Moyen,Route to standard manual review
+H20519,0.2118,oui,Faible,Auto-approve / fast-track underwriting
+H20520,0.3202,oui,Moyen,Route to standard manual review
+H20521,0.1812,oui,Faible,Auto-approve / fast-track underwriting
+H20522,0.1466,non,Faible,Auto-approve / fast-track underwriting
+H20523,0.3746,oui,Moyen,Route to standard manual review
+H20524,0.263,oui,Moyen,Route to standard manual review
+H20525,0.175,non,Faible,Auto-approve / fast-track underwriting
+H20526,0.2277,oui,Moyen,Route to standard manual review
+H20527,0.2542,oui,Moyen,Route to standard manual review
+H20528,0.3328,oui,Moyen,Route to standard manual review
+H20529,0.2733,oui,Moyen,Route to standard manual review
+H20530,0.1108,non,Faible,Auto-approve / fast-track underwriting
+H20531,0.0648,non,Faible,Auto-approve / fast-track underwriting
+H20532,0.1475,non,Faible,Auto-approve / fast-track underwriting
+H20533,0.1755,non,Faible,Auto-approve / fast-track underwriting
+H20534,0.2874,oui,Moyen,Route to standard manual review
+H20535,0.2,oui,Faible,Auto-approve / fast-track underwriting
+H20536,0.1555,non,Faible,Auto-approve / fast-track underwriting
+H20537,0.3031,oui,Moyen,Route to standard manual review
+H20538,0.2426,oui,Moyen,Route to standard manual review
+H20539,0.2713,oui,Moyen,Route to standard manual review
+H20540,0.0948,non,Faible,Auto-approve / fast-track underwriting
+H20541,0.2483,oui,Moyen,Route to standard manual review
+H20542,0.2089,oui,Faible,Auto-approve / fast-track underwriting
+H20543,0.1265,non,Faible,Auto-approve / fast-track underwriting
+H20544,0.0976,non,Faible,Auto-approve / fast-track underwriting
+H20545,0.3663,oui,Moyen,Route to standard manual review
+H20546,0.137,non,Faible,Auto-approve / fast-track underwriting
+H20547,0.1207,non,Faible,Auto-approve / fast-track underwriting
+H20548,0.4975,oui,Élevé,Escalate to senior underwriter + request inspection
+H20549,0.3717,oui,Moyen,Route to standard manual review
+H20550,0.3484,oui,Moyen,Route to standard manual review
+H20551,0.5178,oui,Élevé,Escalate to senior underwriter + request inspection
+H20552,0.1823,oui,Faible,Auto-approve / fast-track underwriting
+H20553,0.3761,oui,Moyen,Route to standard manual review
+H20554,0.1472,non,Faible,Auto-approve / fast-track underwriting
+H20555,0.3113,oui,Moyen,Route to standard manual review
+H20556,0.214,oui,Faible,Auto-approve / fast-track underwriting
+H20557,0.4306,oui,Moyen,Route to standard manual review
+H20558,0.2221,oui,Moyen,Route to standard manual review
+H20559,0.219,oui,Faible,Auto-approve / fast-track underwriting
+H20560,0.3719,oui,Moyen,Route to standard manual review
+H20561,0.2765,oui,Moyen,Route to standard manual review
+H20562,0.1952,oui,Faible,Auto-approve / fast-track underwriting
+H20563,0.3711,oui,Moyen,Route to standard manual review
+H20564,0.3586,oui,Moyen,Route to standard manual review
+H20565,0.2395,oui,Moyen,Route to standard manual review
+H20566,0.1729,non,Faible,Auto-approve / fast-track underwriting
+H20567,0.1287,non,Faible,Auto-approve / fast-track underwriting
+H20568,0.1465,non,Faible,Auto-approve / fast-track underwriting
+H20569,0.308,oui,Moyen,Route to standard manual review
+H20570,0.0907,non,Faible,Auto-approve / fast-track underwriting
+H20571,0.1702,non,Faible,Auto-approve / fast-track underwriting
+H20572,0.1049,non,Faible,Auto-approve / fast-track underwriting
+H20573,0.1789,oui,Faible,Auto-approve / fast-track underwriting
+H20574,0.202,oui,Faible,Auto-approve / fast-track underwriting
+H20575,0.1573,non,Faible,Auto-approve / fast-track underwriting
+H20576,0.2234,oui,Moyen,Route to standard manual review
+H20577,0.0987,non,Faible,Auto-approve / fast-track underwriting
+H20578,0.3683,oui,Moyen,Route to standard manual review
+H20579,0.2237,oui,Moyen,Route to standard manual review
+H20580,0.2261,oui,Moyen,Route to standard manual review
+H20581,0.2539,oui,Moyen,Route to standard manual review
+H20582,0.0814,non,Faible,Auto-approve / fast-track underwriting
+H20583,0.3962,oui,Moyen,Route to standard manual review
+H20584,0.0806,non,Faible,Auto-approve / fast-track underwriting
+H20585,0.1661,non,Faible,Auto-approve / fast-track underwriting
+H20586,0.1152,non,Faible,Auto-approve / fast-track underwriting
+H20587,0.4355,oui,Moyen,Route to standard manual review
+H20588,0.1119,non,Faible,Auto-approve / fast-track underwriting
+H20589,0.2762,oui,Moyen,Route to standard manual review
+H20590,0.1114,non,Faible,Auto-approve / fast-track underwriting
+H20591,0.3543,oui,Moyen,Route to standard manual review
+H20592,0.1763,oui,Faible,Auto-approve / fast-track underwriting
+H20593,0.1434,non,Faible,Auto-approve / fast-track underwriting
+H20594,0.0836,non,Faible,Auto-approve / fast-track underwriting
+H20595,0.1189,non,Faible,Auto-approve / fast-track underwriting
+H20596,0.4034,oui,Moyen,Route to standard manual review
+H20597,0.1858,oui,Faible,Auto-approve / fast-track underwriting
+H20598,0.1365,non,Faible,Auto-approve / fast-track underwriting
+H20599,0.2801,oui,Moyen,Route to standard manual review
+H20600,0.5553,oui,Élevé,Escalate to senior underwriter + request inspection
+H20601,0.4391,oui,Moyen,Route to standard manual review
+H20602,0.1523,non,Faible,Auto-approve / fast-track underwriting
+H20603,0.1554,non,Faible,Auto-approve / fast-track underwriting
+H20604,0.4032,oui,Moyen,Route to standard manual review
+H20605,0.1708,non,Faible,Auto-approve / fast-track underwriting
+H20606,0.1747,non,Faible,Auto-approve / fast-track underwriting
+H20607,0.2503,oui,Moyen,Route to standard manual review
+H20608,0.1156,non,Faible,Auto-approve / fast-track underwriting
+H20609,0.3203,oui,Moyen,Route to standard manual review
+H20610,0.3589,oui,Moyen,Route to standard manual review
+H20611,0.2082,oui,Faible,Auto-approve / fast-track underwriting
+H20612,0.2941,oui,Moyen,Route to standard manual review
+H20613,0.1737,non,Faible,Auto-approve / fast-track underwriting
+H20614,0.4177,oui,Moyen,Route to standard manual review
+H20615,0.2393,oui,Moyen,Route to standard manual review
+H20616,0.1278,non,Faible,Auto-approve / fast-track underwriting
+H20617,0.1062,non,Faible,Auto-approve / fast-track underwriting
+H20618,0.3461,oui,Moyen,Route to standard manual review
+H20619,0.111,non,Faible,Auto-approve / fast-track underwriting
+H20620,0.2592,oui,Moyen,Route to standard manual review
+H20621,0.3293,oui,Moyen,Route to standard manual review
+H20622,0.2388,oui,Moyen,Route to standard manual review
+H20623,0.4642,oui,Élevé,Escalate to senior underwriter + request inspection
+H20624,0.3754,oui,Moyen,Route to standard manual review
+H20625,0.1183,non,Faible,Auto-approve / fast-track underwriting
+H20626,0.1176,non,Faible,Auto-approve / fast-track underwriting
+H20627,0.2564,oui,Moyen,Route to standard manual review
+H20628,0.1108,non,Faible,Auto-approve / fast-track underwriting
+H20629,0.215,oui,Faible,Auto-approve / fast-track underwriting
+H20630,0.1852,oui,Faible,Auto-approve / fast-track underwriting
+H20631,0.1648,non,Faible,Auto-approve / fast-track underwriting
+H20632,0.3111,oui,Moyen,Route to standard manual review
+H20633,0.1844,oui,Faible,Auto-approve / fast-track underwriting
+H20634,0.3272,oui,Moyen,Route to standard manual review
+H20635,0.2554,oui,Moyen,Route to standard manual review
+H20636,0.0932,non,Faible,Auto-approve / fast-track underwriting
+H20637,0.1447,non,Faible,Auto-approve / fast-track underwriting
+H20638,0.1047,non,Faible,Auto-approve / fast-track underwriting
+H20639,0.2551,oui,Moyen,Route to standard manual review
+H20640,0.0874,non,Faible,Auto-approve / fast-track underwriting
+H20641,0.3755,oui,Moyen,Route to standard manual review
+H20642,0.4169,oui,Moyen,Route to standard manual review
+H20643,0.32,oui,Moyen,Route to standard manual review
+H20644,0.3336,oui,Moyen,Route to standard manual review
+H20645,0.1834,oui,Faible,Auto-approve / fast-track underwriting
+H20646,0.1799,oui,Faible,Auto-approve / fast-track underwriting
+H20647,0.1401,non,Faible,Auto-approve / fast-track underwriting
+H20648,0.2872,oui,Moyen,Route to standard manual review
+H20649,0.1698,non,Faible,Auto-approve / fast-track underwriting
+H20650,0.5021,oui,Élevé,Escalate to senior underwriter + request inspection
+H20651,0.3793,oui,Moyen,Route to standard manual review
+H20652,0.2474,oui,Moyen,Route to standard manual review
+H20653,0.1134,non,Faible,Auto-approve / fast-track underwriting
+H20654,0.1769,oui,Faible,Auto-approve / fast-track underwriting
+H20655,0.1118,non,Faible,Auto-approve / fast-track underwriting
+H20656,0.21,oui,Faible,Auto-approve / fast-track underwriting
+H20657,0.2486,oui,Moyen,Route to standard manual review
+H20658,0.1406,non,Faible,Auto-approve / fast-track underwriting
+H20659,0.3612,oui,Moyen,Route to standard manual review
+H20660,0.2646,oui,Moyen,Route to standard manual review
+H20661,0.1763,oui,Faible,Auto-approve / fast-track underwriting
+H20662,0.3074,oui,Moyen,Route to standard manual review
+H20663,0.172,non,Faible,Auto-approve / fast-track underwriting
+H20664,0.249,oui,Moyen,Route to standard manual review
+H20665,0.2595,oui,Moyen,Route to standard manual review
+H20666,0.3309,oui,Moyen,Route to standard manual review
+H20667,0.3111,oui,Moyen,Route to standard manual review
+H20668,0.0928,non,Faible,Auto-approve / fast-track underwriting
+H20669,0.1435,non,Faible,Auto-approve / fast-track underwriting
+H20670,0.3731,oui,Moyen,Route to standard manual review
+H20671,0.3737,oui,Moyen,Route to standard manual review
+H20672,0.244,oui,Moyen,Route to standard manual review
+H20673,0.0819,non,Faible,Auto-approve / fast-track underwriting
+H20674,0.2715,oui,Moyen,Route to standard manual review
+H20675,0.1229,non,Faible,Auto-approve / fast-track underwriting
+H20676,0.183,oui,Faible,Auto-approve / fast-track underwriting
+H20677,0.2096,oui,Faible,Auto-approve / fast-track underwriting
+H20678,0.3194,oui,Moyen,Route to standard manual review
+H20679,0.3113,oui,Moyen,Route to standard manual review
+H20680,0.3402,oui,Moyen,Route to standard manual review
+H20681,0.4582,oui,Élevé,Escalate to senior underwriter + request inspection
+H20682,0.0832,non,Faible,Auto-approve / fast-track underwriting
+H20683,0.1111,non,Faible,Auto-approve / fast-track underwriting
+H20684,0.2115,oui,Faible,Auto-approve / fast-track underwriting
+H20685,0.2077,oui,Faible,Auto-approve / fast-track underwriting
+H20686,0.4102,oui,Moyen,Route to standard manual review
+H20687,0.08,non,Faible,Auto-approve / fast-track underwriting
+H20688,0.1564,non,Faible,Auto-approve / fast-track underwriting
+H20689,0.29,oui,Moyen,Route to standard manual review
+H20690,0.1686,non,Faible,Auto-approve / fast-track underwriting
+H20691,0.2653,oui,Moyen,Route to standard manual review
+H20692,0.2832,oui,Moyen,Route to standard manual review
+H20693,0.3618,oui,Moyen,Route to standard manual review
+H20694,0.1869,oui,Faible,Auto-approve / fast-track underwriting
+H20695,0.0976,non,Faible,Auto-approve / fast-track underwriting
+H20696,0.2354,oui,Moyen,Route to standard manual review
+H20697,0.2031,oui,Faible,Auto-approve / fast-track underwriting
+H20698,0.2894,oui,Moyen,Route to standard manual review
+H20699,0.1616,non,Faible,Auto-approve / fast-track underwriting
+H20700,0.2044,oui,Faible,Auto-approve / fast-track underwriting
+H20701,0.1339,non,Faible,Auto-approve / fast-track underwriting
+H20702,0.2083,oui,Faible,Auto-approve / fast-track underwriting
+H20703,0.1506,non,Faible,Auto-approve / fast-track underwriting
+H20704,0.3952,oui,Moyen,Route to standard manual review
+H20705,0.2816,oui,Moyen,Route to standard manual review
+H20706,0.1555,non,Faible,Auto-approve / fast-track underwriting
+H20707,0.1221,non,Faible,Auto-approve / fast-track underwriting
+H20708,0.2734,oui,Moyen,Route to standard manual review
+H20709,0.2711,oui,Moyen,Route to standard manual review
+H20710,0.0966,non,Faible,Auto-approve / fast-track underwriting
+H20711,0.2566,oui,Moyen,Route to standard manual review
+H20712,0.1257,non,Faible,Auto-approve / fast-track underwriting
+H20713,0.1211,non,Faible,Auto-approve / fast-track underwriting
+H20714,0.1136,non,Faible,Auto-approve / fast-track underwriting
+H20715,0.1087,non,Faible,Auto-approve / fast-track underwriting
+H20716,0.1488,non,Faible,Auto-approve / fast-track underwriting
+H20717,0.2271,oui,Moyen,Route to standard manual review
+H20718,0.1407,non,Faible,Auto-approve / fast-track underwriting
+H20719,0.1809,oui,Faible,Auto-approve / fast-track underwriting
+H20720,0.2507,oui,Moyen,Route to standard manual review
+H20721,0.3933,oui,Moyen,Route to standard manual review
+H20722,0.2077,oui,Faible,Auto-approve / fast-track underwriting
+H20723,0.2635,oui,Moyen,Route to standard manual review
+H20724,0.2238,oui,Moyen,Route to standard manual review
+H20725,0.2924,oui,Moyen,Route to standard manual review
+H20726,0.1517,non,Faible,Auto-approve / fast-track underwriting
+H20727,0.095,non,Faible,Auto-approve / fast-track underwriting
+H20728,0.1394,non,Faible,Auto-approve / fast-track underwriting
+H20729,0.1695,non,Faible,Auto-approve / fast-track underwriting
+H20730,0.3063,oui,Moyen,Route to standard manual review
+H20731,0.3542,oui,Moyen,Route to standard manual review
+H20732,0.222,oui,Moyen,Route to standard manual review
+H20733,0.1384,non,Faible,Auto-approve / fast-track underwriting
+H20734,0.3305,oui,Moyen,Route to standard manual review
+H20735,0.2198,oui,Faible,Auto-approve / fast-track underwriting
+H20736,0.1565,non,Faible,Auto-approve / fast-track underwriting
+H20737,0.1513,non,Faible,Auto-approve / fast-track underwriting
+H20738,0.2665,oui,Moyen,Route to standard manual review
+H20739,0.114,non,Faible,Auto-approve / fast-track underwriting
+H20740,0.3591,oui,Moyen,Route to standard manual review
+H20741,0.1518,non,Faible,Auto-approve / fast-track underwriting
+H20742,0.1602,non,Faible,Auto-approve / fast-track underwriting
+H20743,0.1166,non,Faible,Auto-approve / fast-track underwriting
+H20744,0.1453,non,Faible,Auto-approve / fast-track underwriting
+H20745,0.261,oui,Moyen,Route to standard manual review
+H20746,0.2153,oui,Faible,Auto-approve / fast-track underwriting
+H20747,0.1758,oui,Faible,Auto-approve / fast-track underwriting
+H20748,0.1668,non,Faible,Auto-approve / fast-track underwriting
+H20749,0.2632,oui,Moyen,Route to standard manual review
+H20750,0.1349,non,Faible,Auto-approve / fast-track underwriting
+H20751,0.1591,non,Faible,Auto-approve / fast-track underwriting
+H20752,0.2581,oui,Moyen,Route to standard manual review
+H20753,0.1511,non,Faible,Auto-approve / fast-track underwriting
+H20754,0.1648,non,Faible,Auto-approve / fast-track underwriting
+H20755,0.1935,oui,Faible,Auto-approve / fast-track underwriting
+H20756,0.2495,oui,Moyen,Route to standard manual review
+H20757,0.1623,non,Faible,Auto-approve / fast-track underwriting
+H20758,0.1111,non,Faible,Auto-approve / fast-track underwriting
+H20759,0.094,non,Faible,Auto-approve / fast-track underwriting
+H20760,0.1106,non,Faible,Auto-approve / fast-track underwriting
+H20761,0.444,oui,Élevé,Escalate to senior underwriter + request inspection
+H20762,0.1263,non,Faible,Auto-approve / fast-track underwriting
+H20763,0.0867,non,Faible,Auto-approve / fast-track underwriting
+H20764,0.2015,oui,Faible,Auto-approve / fast-track underwriting
+H20765,0.1239,non,Faible,Auto-approve / fast-track underwriting
+H20766,0.4391,oui,Moyen,Route to standard manual review
+H20767,0.2198,oui,Faible,Auto-approve / fast-track underwriting
+H20768,0.4136,oui,Moyen,Route to standard manual review
+H20769,0.1742,non,Faible,Auto-approve / fast-track underwriting
+H20770,0.2123,oui,Faible,Auto-approve / fast-track underwriting
+H20771,0.1018,non,Faible,Auto-approve / fast-track underwriting
+H20772,0.1537,non,Faible,Auto-approve / fast-track underwriting
+H20773,0.123,non,Faible,Auto-approve / fast-track underwriting
+H20774,0.2012,oui,Faible,Auto-approve / fast-track underwriting
+H20775,0.1581,non,Faible,Auto-approve / fast-track underwriting
+H20776,0.157,non,Faible,Auto-approve / fast-track underwriting
+H20777,0.1053,non,Faible,Auto-approve / fast-track underwriting
+H20778,0.2536,oui,Moyen,Route to standard manual review
+H20779,0.1717,non,Faible,Auto-approve / fast-track underwriting
+H20780,0.2852,oui,Moyen,Route to standard manual review
+H20781,0.2911,oui,Moyen,Route to standard manual review
+H20782,0.1487,non,Faible,Auto-approve / fast-track underwriting
+H20783,0.112,non,Faible,Auto-approve / fast-track underwriting
+H20784,0.3473,oui,Moyen,Route to standard manual review
+H20785,0.1353,non,Faible,Auto-approve / fast-track underwriting
+H20786,0.1805,oui,Faible,Auto-approve / fast-track underwriting
+H20787,0.0883,non,Faible,Auto-approve / fast-track underwriting
+H20788,0.1982,oui,Faible,Auto-approve / fast-track underwriting
+H20789,0.3073,oui,Moyen,Route to standard manual review
+H20790,0.2635,oui,Moyen,Route to standard manual review
+H20791,0.2872,oui,Moyen,Route to standard manual review
+H20792,0.1041,non,Faible,Auto-approve / fast-track underwriting
+H20793,0.1296,non,Faible,Auto-approve / fast-track underwriting
+H20794,0.2421,oui,Moyen,Route to standard manual review
+H20795,0.3128,oui,Moyen,Route to standard manual review
+H20796,0.0857,non,Faible,Auto-approve / fast-track underwriting
+H20797,0.1168,non,Faible,Auto-approve / fast-track underwriting
+H20798,0.1046,non,Faible,Auto-approve / fast-track underwriting
+H20799,0.1809,oui,Faible,Auto-approve / fast-track underwriting
+H20800,0.1583,non,Faible,Auto-approve / fast-track underwriting
+H20801,0.3612,oui,Moyen,Route to standard manual review
+H20802,0.2306,oui,Moyen,Route to standard manual review
+H20803,0.0962,non,Faible,Auto-approve / fast-track underwriting
+H20804,0.376,oui,Moyen,Route to standard manual review
+H20805,0.2792,oui,Moyen,Route to standard manual review
+H20806,0.2574,oui,Moyen,Route to standard manual review
+H20807,0.2858,oui,Moyen,Route to standard manual review
+H20808,0.3929,oui,Moyen,Route to standard manual review
+H20809,0.1141,non,Faible,Auto-approve / fast-track underwriting
+H20810,0.4769,oui,Élevé,Escalate to senior underwriter + request inspection
+H20811,0.239,oui,Moyen,Route to standard manual review
+H20812,0.3113,oui,Moyen,Route to standard manual review
+H20813,0.2047,oui,Faible,Auto-approve / fast-track underwriting
+H20814,0.291,oui,Moyen,Route to standard manual review
+H20815,0.3364,oui,Moyen,Route to standard manual review
+H20816,0.1879,oui,Faible,Auto-approve / fast-track underwriting
+H20817,0.2548,oui,Moyen,Route to standard manual review
+H20818,0.2834,oui,Moyen,Route to standard manual review
+H20819,0.1945,oui,Faible,Auto-approve / fast-track underwriting
+H20820,0.0919,non,Faible,Auto-approve / fast-track underwriting
+H20821,0.0731,non,Faible,Auto-approve / fast-track underwriting
+H20822,0.1975,oui,Faible,Auto-approve / fast-track underwriting
+H20823,0.187,oui,Faible,Auto-approve / fast-track underwriting
+H20824,0.2502,oui,Moyen,Route to standard manual review
+H20825,0.2156,oui,Faible,Auto-approve / fast-track underwriting
+H20826,0.1017,non,Faible,Auto-approve / fast-track underwriting
+H20827,0.3531,oui,Moyen,Route to standard manual review
+H20828,0.2233,oui,Moyen,Route to standard manual review
+H20829,0.3463,oui,Moyen,Route to standard manual review
+H20830,0.2821,oui,Moyen,Route to standard manual review
+H20831,0.3825,oui,Moyen,Route to standard manual review
+H20832,0.2295,oui,Moyen,Route to standard manual review
+H20833,0.171,non,Faible,Auto-approve / fast-track underwriting
+H20834,0.233,oui,Moyen,Route to standard manual review
+H20835,0.1336,non,Faible,Auto-approve / fast-track underwriting
+H20836,0.3144,oui,Moyen,Route to standard manual review
+H20837,0.2574,oui,Moyen,Route to standard manual review
+H20838,0.2662,oui,Moyen,Route to standard manual review
+H20839,0.2362,oui,Moyen,Route to standard manual review
+H20840,0.3738,oui,Moyen,Route to standard manual review
+H20841,0.3108,oui,Moyen,Route to standard manual review
+H20842,0.2371,oui,Moyen,Route to standard manual review
+H20843,0.2193,oui,Faible,Auto-approve / fast-track underwriting
+H20844,0.367,oui,Moyen,Route to standard manual review
+H20845,0.2804,oui,Moyen,Route to standard manual review
+H20846,0.0844,non,Faible,Auto-approve / fast-track underwriting
+H20847,0.177,oui,Faible,Auto-approve / fast-track underwriting
+H20848,0.2218,oui,Moyen,Route to standard manual review
+H20849,0.4548,oui,Élevé,Escalate to senior underwriter + request inspection
+H20850,0.2821,oui,Moyen,Route to standard manual review
+H20851,0.1842,oui,Faible,Auto-approve / fast-track underwriting
+H20852,0.1621,non,Faible,Auto-approve / fast-track underwriting
+H20853,0.1314,non,Faible,Auto-approve / fast-track underwriting
+H20854,0.1384,non,Faible,Auto-approve / fast-track underwriting
+H20855,0.2292,oui,Moyen,Route to standard manual review
+H20856,0.2105,oui,Faible,Auto-approve / fast-track underwriting
+H20857,0.4048,oui,Moyen,Route to standard manual review
+H20858,0.1542,non,Faible,Auto-approve / fast-track underwriting
+H20859,0.1838,oui,Faible,Auto-approve / fast-track underwriting
+H20860,0.2228,oui,Moyen,Route to standard manual review
+H20861,0.2406,oui,Moyen,Route to standard manual review
+H20862,0.163,non,Faible,Auto-approve / fast-track underwriting
+H20863,0.1355,non,Faible,Auto-approve / fast-track underwriting
+H20864,0.2994,oui,Moyen,Route to standard manual review
+H20865,0.184,oui,Faible,Auto-approve / fast-track underwriting
+H20866,0.2793,oui,Moyen,Route to standard manual review
+H20867,0.3846,oui,Moyen,Route to standard manual review
+H20868,0.0703,non,Faible,Auto-approve / fast-track underwriting
+H20869,0.2491,oui,Moyen,Route to standard manual review
+H20870,0.2821,oui,Moyen,Route to standard manual review
+H20871,0.3268,oui,Moyen,Route to standard manual review
+H20872,0.1821,oui,Faible,Auto-approve / fast-track underwriting
+H20873,0.169,non,Faible,Auto-approve / fast-track underwriting
+H20874,0.3898,oui,Moyen,Route to standard manual review
+H20875,0.1795,oui,Faible,Auto-approve / fast-track underwriting
+H20876,0.3316,oui,Moyen,Route to standard manual review
+H20877,0.4556,oui,Élevé,Escalate to senior underwriter + request inspection
+H20878,0.2857,oui,Moyen,Route to standard manual review
+H20879,0.4033,oui,Moyen,Route to standard manual review
+H20880,0.3517,oui,Moyen,Route to standard manual review
+H20881,0.4725,oui,Élevé,Escalate to senior underwriter + request inspection
+H20882,0.1247,non,Faible,Auto-approve / fast-track underwriting
+H20883,0.2342,oui,Moyen,Route to standard manual review
+H20884,0.1657,non,Faible,Auto-approve / fast-track underwriting
+H20885,0.1539,non,Faible,Auto-approve / fast-track underwriting
+H20886,0.1327,non,Faible,Auto-approve / fast-track underwriting
+H20887,0.5557,oui,Élevé,Escalate to senior underwriter + request inspection
+H20888,0.3073,oui,Moyen,Route to standard manual review
+H20889,0.1854,oui,Faible,Auto-approve / fast-track underwriting
+H20890,0.3218,oui,Moyen,Route to standard manual review
+H20891,0.3089,oui,Moyen,Route to standard manual review
+H20892,0.2903,oui,Moyen,Route to standard manual review
+H20893,0.2894,oui,Moyen,Route to standard manual review
+H20894,0.4166,oui,Moyen,Route to standard manual review
+H20895,0.3926,oui,Moyen,Route to standard manual review
+H20896,0.2984,oui,Moyen,Route to standard manual review
+H20897,0.2509,oui,Moyen,Route to standard manual review
+H20898,0.1023,non,Faible,Auto-approve / fast-track underwriting
+H20899,0.1722,non,Faible,Auto-approve / fast-track underwriting
+H20900,0.4133,oui,Moyen,Route to standard manual review
+H20901,0.2466,oui,Moyen,Route to standard manual review
+H20902,0.248,oui,Moyen,Route to standard manual review
+H20903,0.1527,non,Faible,Auto-approve / fast-track underwriting
+H20904,0.1377,non,Faible,Auto-approve / fast-track underwriting
+H20905,0.2728,oui,Moyen,Route to standard manual review
+H20906,0.282,oui,Moyen,Route to standard manual review
+H20907,0.2733,oui,Moyen,Route to standard manual review
+H20908,0.1144,non,Faible,Auto-approve / fast-track underwriting
+H20909,0.3712,oui,Moyen,Route to standard manual review
+H20910,0.1138,non,Faible,Auto-approve / fast-track underwriting
+H20911,0.2465,oui,Moyen,Route to standard manual review
+H20912,0.1281,non,Faible,Auto-approve / fast-track underwriting
+H20913,0.2965,oui,Moyen,Route to standard manual review
+H20914,0.1107,non,Faible,Auto-approve / fast-track underwriting
+H20915,0.2945,oui,Moyen,Route to standard manual review
+H20916,0.2189,oui,Faible,Auto-approve / fast-track underwriting
+H20917,0.1101,non,Faible,Auto-approve / fast-track underwriting
+H20918,0.0926,non,Faible,Auto-approve / fast-track underwriting
+H20919,0.1569,non,Faible,Auto-approve / fast-track underwriting
+H20920,0.3312,oui,Moyen,Route to standard manual review
+H20921,0.3905,oui,Moyen,Route to standard manual review
+H20922,0.2342,oui,Moyen,Route to standard manual review
+H20923,0.3063,oui,Moyen,Route to standard manual review
+H20924,0.1566,non,Faible,Auto-approve / fast-track underwriting
+H20925,0.1134,non,Faible,Auto-approve / fast-track underwriting
+H20926,0.2117,oui,Faible,Auto-approve / fast-track underwriting
+H20927,0.105,non,Faible,Auto-approve / fast-track underwriting
+H20928,0.0898,non,Faible,Auto-approve / fast-track underwriting
+H20929,0.1785,oui,Faible,Auto-approve / fast-track underwriting
+H20930,0.1479,non,Faible,Auto-approve / fast-track underwriting
+H20931,0.1015,non,Faible,Auto-approve / fast-track underwriting
+H20932,0.1612,non,Faible,Auto-approve / fast-track underwriting
+H20933,0.1707,non,Faible,Auto-approve / fast-track underwriting
+H20934,0.2334,oui,Moyen,Route to standard manual review
+H20935,0.0773,non,Faible,Auto-approve / fast-track underwriting
+H20936,0.1267,non,Faible,Auto-approve / fast-track underwriting
+H20937,0.1951,oui,Faible,Auto-approve / fast-track underwriting
+H20938,0.3553,oui,Moyen,Route to standard manual review
+H20939,0.1444,non,Faible,Auto-approve / fast-track underwriting
+H20940,0.2251,oui,Moyen,Route to standard manual review
+H20941,0.2879,oui,Moyen,Route to standard manual review
+H20942,0.1748,non,Faible,Auto-approve / fast-track underwriting
+H20943,0.0842,non,Faible,Auto-approve / fast-track underwriting
+H20944,0.1333,non,Faible,Auto-approve / fast-track underwriting
+H20945,0.1534,non,Faible,Auto-approve / fast-track underwriting
+H20946,0.1512,non,Faible,Auto-approve / fast-track underwriting
+H20947,0.2996,oui,Moyen,Route to standard manual review
+H20948,0.1191,non,Faible,Auto-approve / fast-track underwriting
+H20949,0.1976,oui,Faible,Auto-approve / fast-track underwriting
+H20950,0.3044,oui,Moyen,Route to standard manual review
+H20951,0.1018,non,Faible,Auto-approve / fast-track underwriting
+H20952,0.1445,non,Faible,Auto-approve / fast-track underwriting
+H20953,0.1225,non,Faible,Auto-approve / fast-track underwriting
+H20954,0.3611,oui,Moyen,Route to standard manual review
+H20955,0.3173,oui,Moyen,Route to standard manual review
+H20956,0.2543,oui,Moyen,Route to standard manual review
+H20957,0.4471,oui,Élevé,Escalate to senior underwriter + request inspection
+H20958,0.3418,oui,Moyen,Route to standard manual review
+H20959,0.1159,non,Faible,Auto-approve / fast-track underwriting
+H20960,0.3281,oui,Moyen,Route to standard manual review
+H20961,0.2988,oui,Moyen,Route to standard manual review
+H20962,0.082,non,Faible,Auto-approve / fast-track underwriting
+H20963,0.149,non,Faible,Auto-approve / fast-track underwriting
+H20964,0.0613,non,Faible,Auto-approve / fast-track underwriting
+H20965,0.2133,oui,Faible,Auto-approve / fast-track underwriting
+H20966,0.2881,oui,Moyen,Route to standard manual review
+H20967,0.2621,oui,Moyen,Route to standard manual review
+H20968,0.1909,oui,Faible,Auto-approve / fast-track underwriting
+H20969,0.1028,non,Faible,Auto-approve / fast-track underwriting
+H20970,0.2837,oui,Moyen,Route to standard manual review
+H20971,0.175,non,Faible,Auto-approve / fast-track underwriting
+H20972,0.077,non,Faible,Auto-approve / fast-track underwriting
+H20973,0.1904,oui,Faible,Auto-approve / fast-track underwriting
+H20974,0.3898,oui,Moyen,Route to standard manual review
+H20975,0.2619,oui,Moyen,Route to standard manual review
+H20976,0.1174,non,Faible,Auto-approve / fast-track underwriting
+H20977,0.2916,oui,Moyen,Route to standard manual review
+H20978,0.3925,oui,Moyen,Route to standard manual review
+H20979,0.2533,oui,Moyen,Route to standard manual review
+H20980,0.0877,non,Faible,Auto-approve / fast-track underwriting
+H20981,0.098,non,Faible,Auto-approve / fast-track underwriting
+H20982,0.1198,non,Faible,Auto-approve / fast-track underwriting
+H20983,0.1602,non,Faible,Auto-approve / fast-track underwriting
+H20984,0.1605,non,Faible,Auto-approve / fast-track underwriting
+H20985,0.1754,non,Faible,Auto-approve / fast-track underwriting
+H20986,0.3849,oui,Moyen,Route to standard manual review
+H20987,0.1903,oui,Faible,Auto-approve / fast-track underwriting
+H20988,0.113,non,Faible,Auto-approve / fast-track underwriting
+H20989,0.1219,non,Faible,Auto-approve / fast-track underwriting
+H20990,0.1361,non,Faible,Auto-approve / fast-track underwriting
+H20991,0.0868,non,Faible,Auto-approve / fast-track underwriting
+H20992,0.1125,non,Faible,Auto-approve / fast-track underwriting
+H20993,0.079,non,Faible,Auto-approve / fast-track underwriting
+H20994,0.2675,oui,Moyen,Route to standard manual review
+H20995,0.1287,non,Faible,Auto-approve / fast-track underwriting
+H20996,0.3381,oui,Moyen,Route to standard manual review
+H20997,0.1921,oui,Faible,Auto-approve / fast-track underwriting
+H20998,0.5841,oui,Élevé,Escalate to senior underwriter + request inspection
+H20999,0.2806,oui,Moyen,Route to standard manual review
+H21000,0.1468,non,Faible,Auto-approve / fast-track underwriting
+H21001,0.1687,non,Faible,Auto-approve / fast-track underwriting
+H21002,0.2308,oui,Moyen,Route to standard manual review
+H21003,0.186,oui,Faible,Auto-approve / fast-track underwriting
+H21004,0.3574,oui,Moyen,Route to standard manual review
+H21005,0.1137,non,Faible,Auto-approve / fast-track underwriting
+H21006,0.1971,oui,Faible,Auto-approve / fast-track underwriting
+H21007,0.1925,oui,Faible,Auto-approve / fast-track underwriting
+H21008,0.1739,non,Faible,Auto-approve / fast-track underwriting
+H21009,0.1568,non,Faible,Auto-approve / fast-track underwriting
+H21010,0.0948,non,Faible,Auto-approve / fast-track underwriting
+H21011,0.3605,oui,Moyen,Route to standard manual review
+H21012,0.3073,oui,Moyen,Route to standard manual review
+H21013,0.1931,oui,Faible,Auto-approve / fast-track underwriting
+H21014,0.1144,non,Faible,Auto-approve / fast-track underwriting
+H21015,0.3048,oui,Moyen,Route to standard manual review
+H21016,0.1807,oui,Faible,Auto-approve / fast-track underwriting
+H21017,0.2825,oui,Moyen,Route to standard manual review
+H21018,0.2584,oui,Moyen,Route to standard manual review
+H21019,0.0946,non,Faible,Auto-approve / fast-track underwriting
+H21020,0.2998,oui,Moyen,Route to standard manual review
+H21021,0.2079,oui,Faible,Auto-approve / fast-track underwriting
+H21022,0.3212,oui,Moyen,Route to standard manual review
+H21023,0.1287,non,Faible,Auto-approve / fast-track underwriting
+H21024,0.1396,non,Faible,Auto-approve / fast-track underwriting
+H21025,0.2638,oui,Moyen,Route to standard manual review
+H21026,0.1416,non,Faible,Auto-approve / fast-track underwriting
+H21027,0.1646,non,Faible,Auto-approve / fast-track underwriting
+H21028,0.1226,non,Faible,Auto-approve / fast-track underwriting
+H21029,0.2362,oui,Moyen,Route to standard manual review
+H21030,0.1887,oui,Faible,Auto-approve / fast-track underwriting
+H21031,0.1563,non,Faible,Auto-approve / fast-track underwriting
+H21032,0.4335,oui,Moyen,Route to standard manual review
+H21033,0.1531,non,Faible,Auto-approve / fast-track underwriting
+H21034,0.1312,non,Faible,Auto-approve / fast-track underwriting
+H21035,0.1186,non,Faible,Auto-approve / fast-track underwriting
+H21036,0.2128,oui,Faible,Auto-approve / fast-track underwriting
+H21037,0.2115,oui,Faible,Auto-approve / fast-track underwriting
+H21038,0.1444,non,Faible,Auto-approve / fast-track underwriting
+H21039,0.2152,oui,Faible,Auto-approve / fast-track underwriting
+H21040,0.3254,oui,Moyen,Route to standard manual review
+H21041,0.1245,non,Faible,Auto-approve / fast-track underwriting
+H21042,0.2052,oui,Faible,Auto-approve / fast-track underwriting
+H21043,0.086,non,Faible,Auto-approve / fast-track underwriting
+H21044,0.3015,oui,Moyen,Route to standard manual review
+H21045,0.2101,oui,Faible,Auto-approve / fast-track underwriting
+H21046,0.187,oui,Faible,Auto-approve / fast-track underwriting
+H21047,0.3594,oui,Moyen,Route to standard manual review
+H21048,0.2373,oui,Moyen,Route to standard manual review
+H21049,0.2459,oui,Moyen,Route to standard manual review
+H21050,0.1765,oui,Faible,Auto-approve / fast-track underwriting
+H21051,0.4517,oui,Élevé,Escalate to senior underwriter + request inspection
+H21052,0.1551,non,Faible,Auto-approve / fast-track underwriting
+H21053,0.1695,non,Faible,Auto-approve / fast-track underwriting
+H21054,0.2111,oui,Faible,Auto-approve / fast-track underwriting
+H21055,0.4823,oui,Élevé,Escalate to senior underwriter + request inspection
+H21056,0.4068,oui,Moyen,Route to standard manual review
+H21057,0.1381,non,Faible,Auto-approve / fast-track underwriting
+H21058,0.0837,non,Faible,Auto-approve / fast-track underwriting
+H21059,0.1576,non,Faible,Auto-approve / fast-track underwriting
+H21060,0.2488,oui,Moyen,Route to standard manual review
+H21061,0.3256,oui,Moyen,Route to standard manual review
+H21062,0.1031,non,Faible,Auto-approve / fast-track underwriting
+H21063,0.0867,non,Faible,Auto-approve / fast-track underwriting
+H21064,0.2558,oui,Moyen,Route to standard manual review
+H21065,0.2666,oui,Moyen,Route to standard manual review
+H21066,0.1039,non,Faible,Auto-approve / fast-track underwriting
+H21067,0.2222,oui,Moyen,Route to standard manual review
+H21068,0.1017,non,Faible,Auto-approve / fast-track underwriting
+H21069,0.2042,oui,Faible,Auto-approve / fast-track underwriting
+H21070,0.3909,oui,Moyen,Route to standard manual review
+H21071,0.1106,non,Faible,Auto-approve / fast-track underwriting
+H21072,0.3895,oui,Moyen,Route to standard manual review
+H21073,0.2089,oui,Faible,Auto-approve / fast-track underwriting
+H21074,0.2363,oui,Moyen,Route to standard manual review
+H21075,0.5059,oui,Élevé,Escalate to senior underwriter + request inspection
+H21076,0.1224,non,Faible,Auto-approve / fast-track underwriting
+H21077,0.4145,oui,Moyen,Route to standard manual review
+H21078,0.3198,oui,Moyen,Route to standard manual review
+H21079,0.0971,non,Faible,Auto-approve / fast-track underwriting
+H21080,0.3028,oui,Moyen,Route to standard manual review
+H21081,0.2589,oui,Moyen,Route to standard manual review
+H21082,0.1119,non,Faible,Auto-approve / fast-track underwriting
+H21083,0.3616,oui,Moyen,Route to standard manual review
+H21084,0.1455,non,Faible,Auto-approve / fast-track underwriting
+H21085,0.083,non,Faible,Auto-approve / fast-track underwriting
+H21086,0.2351,oui,Moyen,Route to standard manual review
+H21087,0.2548,oui,Moyen,Route to standard manual review
+H21088,0.1615,non,Faible,Auto-approve / fast-track underwriting
+H21089,0.2882,oui,Moyen,Route to standard manual review
+H21090,0.2116,oui,Faible,Auto-approve / fast-track underwriting
+H21091,0.2568,oui,Moyen,Route to standard manual review
+H21092,0.2408,oui,Moyen,Route to standard manual review
+H21093,0.1888,oui,Faible,Auto-approve / fast-track underwriting
+H21094,0.1436,non,Faible,Auto-approve / fast-track underwriting
+H21095,0.3685,oui,Moyen,Route to standard manual review
+H21096,0.1478,non,Faible,Auto-approve / fast-track underwriting
+H21097,0.2033,oui,Faible,Auto-approve / fast-track underwriting
+H21098,0.2578,oui,Moyen,Route to standard manual review
+H21099,0.149,non,Faible,Auto-approve / fast-track underwriting
+H21100,0.0693,non,Faible,Auto-approve / fast-track underwriting
+H21101,0.1127,non,Faible,Auto-approve / fast-track underwriting
+H21102,0.2629,oui,Moyen,Route to standard manual review
+H21103,0.0969,non,Faible,Auto-approve / fast-track underwriting
+H21104,0.141,non,Faible,Auto-approve / fast-track underwriting
+H21105,0.3176,oui,Moyen,Route to standard manual review
+H21106,0.1309,non,Faible,Auto-approve / fast-track underwriting
+H21107,0.2377,oui,Moyen,Route to standard manual review
+H21108,0.0942,non,Faible,Auto-approve / fast-track underwriting
+H21109,0.22,oui,Faible,Auto-approve / fast-track underwriting
+H21110,0.2382,oui,Moyen,Route to standard manual review
+H21111,0.0872,non,Faible,Auto-approve / fast-track underwriting
+H21112,0.3159,oui,Moyen,Route to standard manual review
+H21113,0.1801,oui,Faible,Auto-approve / fast-track underwriting
+H21114,0.4712,oui,Élevé,Escalate to senior underwriter + request inspection
+H21115,0.1676,non,Faible,Auto-approve / fast-track underwriting
+H21116,0.107,non,Faible,Auto-approve / fast-track underwriting
+H21117,0.2033,oui,Faible,Auto-approve / fast-track underwriting
+H21118,0.1234,non,Faible,Auto-approve / fast-track underwriting
+H21119,0.0842,non,Faible,Auto-approve / fast-track underwriting
+H21120,0.1047,non,Faible,Auto-approve / fast-track underwriting
+H21121,0.2452,oui,Moyen,Route to standard manual review
+H21122,0.2341,oui,Moyen,Route to standard manual review
+H21123,0.2127,oui,Faible,Auto-approve / fast-track underwriting
+H21124,0.3321,oui,Moyen,Route to standard manual review
+H21125,0.1131,non,Faible,Auto-approve / fast-track underwriting
+H21126,0.2538,oui,Moyen,Route to standard manual review
+H21127,0.1393,non,Faible,Auto-approve / fast-track underwriting
+H21128,0.0867,non,Faible,Auto-approve / fast-track underwriting
+H21129,0.1672,non,Faible,Auto-approve / fast-track underwriting
+H21130,0.1276,non,Faible,Auto-approve / fast-track underwriting
+H21131,0.3223,oui,Moyen,Route to standard manual review
+H21132,0.1978,oui,Faible,Auto-approve / fast-track underwriting
+H21133,0.1702,non,Faible,Auto-approve / fast-track underwriting
+H21134,0.3053,oui,Moyen,Route to standard manual review
+H21135,0.1405,non,Faible,Auto-approve / fast-track underwriting
+H21136,0.3233,oui,Moyen,Route to standard manual review
+H21137,0.1515,non,Faible,Auto-approve / fast-track underwriting
+H21138,0.106,non,Faible,Auto-approve / fast-track underwriting
+H21139,0.2849,oui,Moyen,Route to standard manual review
+H21140,0.3179,oui,Moyen,Route to standard manual review
+H21141,0.3134,oui,Moyen,Route to standard manual review
+H21142,0.1444,non,Faible,Auto-approve / fast-track underwriting
+H21143,0.3847,oui,Moyen,Route to standard manual review
+H21144,0.2631,oui,Moyen,Route to standard manual review
+H21145,0.1689,non,Faible,Auto-approve / fast-track underwriting
+H21146,0.2205,oui,Faible,Auto-approve / fast-track underwriting
+H21147,0.1902,oui,Faible,Auto-approve / fast-track underwriting
+H21148,0.1671,non,Faible,Auto-approve / fast-track underwriting
+H21149,0.1686,non,Faible,Auto-approve / fast-track underwriting
+H21150,0.2782,oui,Moyen,Route to standard manual review
+H21151,0.0708,non,Faible,Auto-approve / fast-track underwriting
+H21152,0.0818,non,Faible,Auto-approve / fast-track underwriting
+H21153,0.266,oui,Moyen,Route to standard manual review
+H21154,0.304,oui,Moyen,Route to standard manual review
+H21155,0.1624,non,Faible,Auto-approve / fast-track underwriting
+H21156,0.3518,oui,Moyen,Route to standard manual review
+H21157,0.1485,non,Faible,Auto-approve / fast-track underwriting
+H21158,0.2073,oui,Faible,Auto-approve / fast-track underwriting
+H21159,0.264,oui,Moyen,Route to standard manual review
+H21160,0.1649,non,Faible,Auto-approve / fast-track underwriting
+H21161,0.1884,oui,Faible,Auto-approve / fast-track underwriting
+H21162,0.2618,oui,Moyen,Route to standard manual review
+H21163,0.1894,oui,Faible,Auto-approve / fast-track underwriting
+H21164,0.1204,non,Faible,Auto-approve / fast-track underwriting
+H21165,0.2638,oui,Moyen,Route to standard manual review
+H21166,0.171,non,Faible,Auto-approve / fast-track underwriting
+H21167,0.1763,oui,Faible,Auto-approve / fast-track underwriting
+H21168,0.1205,non,Faible,Auto-approve / fast-track underwriting
+H21169,0.178,oui,Faible,Auto-approve / fast-track underwriting
+H21170,0.379,oui,Moyen,Route to standard manual review
+H21171,0.1978,oui,Faible,Auto-approve / fast-track underwriting
+H21172,0.3124,oui,Moyen,Route to standard manual review
+H21173,0.3377,oui,Moyen,Route to standard manual review
+H21174,0.1131,non,Faible,Auto-approve / fast-track underwriting
+H21175,0.2248,oui,Moyen,Route to standard manual review
+H21176,0.2584,oui,Moyen,Route to standard manual review
+H21177,0.1272,non,Faible,Auto-approve / fast-track underwriting
+H21178,0.2929,oui,Moyen,Route to standard manual review
+H21179,0.19,oui,Faible,Auto-approve / fast-track underwriting
+H21180,0.2415,oui,Moyen,Route to standard manual review
+H21181,0.236,oui,Moyen,Route to standard manual review
+H21182,0.1221,non,Faible,Auto-approve / fast-track underwriting
+H21183,0.2572,oui,Moyen,Route to standard manual review
+H21184,0.185,oui,Faible,Auto-approve / fast-track underwriting
+H21185,0.186,oui,Faible,Auto-approve / fast-track underwriting
+H21186,0.0847,non,Faible,Auto-approve / fast-track underwriting
+H21187,0.2166,oui,Faible,Auto-approve / fast-track underwriting
+H21188,0.3813,oui,Moyen,Route to standard manual review
+H21189,0.2804,oui,Moyen,Route to standard manual review
+H21190,0.2207,oui,Faible,Auto-approve / fast-track underwriting
+H21191,0.247,oui,Moyen,Route to standard manual review
+H21192,0.1353,non,Faible,Auto-approve / fast-track underwriting
+H21193,0.1342,non,Faible,Auto-approve / fast-track underwriting
+H21194,0.2936,oui,Moyen,Route to standard manual review
+H21195,0.4098,oui,Moyen,Route to standard manual review
+H21196,0.3903,oui,Moyen,Route to standard manual review
+H21197,0.091,non,Faible,Auto-approve / fast-track underwriting
+H21198,0.1339,non,Faible,Auto-approve / fast-track underwriting
+H21199,0.1544,non,Faible,Auto-approve / fast-track underwriting
+H21200,0.3956,oui,Moyen,Route to standard manual review
+H21201,0.1275,non,Faible,Auto-approve / fast-track underwriting
+H21202,0.1853,oui,Faible,Auto-approve / fast-track underwriting
+H21203,0.2966,oui,Moyen,Route to standard manual review
+H21204,0.3629,oui,Moyen,Route to standard manual review
+H21205,0.2252,oui,Moyen,Route to standard manual review
+H21206,0.2243,oui,Moyen,Route to standard manual review
+H21207,0.249,oui,Moyen,Route to standard manual review
+H21208,0.3838,oui,Moyen,Route to standard manual review
+H21209,0.4307,oui,Moyen,Route to standard manual review
+H21210,0.0854,non,Faible,Auto-approve / fast-track underwriting
+H21211,0.2666,oui,Moyen,Route to standard manual review
+H21212,0.2415,oui,Moyen,Route to standard manual review
+H21213,0.2316,oui,Moyen,Route to standard manual review
+H21214,0.3612,oui,Moyen,Route to standard manual review
+H21215,0.2646,oui,Moyen,Route to standard manual review
+H21216,0.4509,oui,Élevé,Escalate to senior underwriter + request inspection
+H21217,0.112,non,Faible,Auto-approve / fast-track underwriting
+H21218,0.2093,oui,Faible,Auto-approve / fast-track underwriting
+H21219,0.2779,oui,Moyen,Route to standard manual review
+H21220,0.2298,oui,Moyen,Route to standard manual review
+H21221,0.3679,oui,Moyen,Route to standard manual review
+H21222,0.2243,oui,Moyen,Route to standard manual review
+H21223,0.2551,oui,Moyen,Route to standard manual review
+H21224,0.3105,oui,Moyen,Route to standard manual review
+H21225,0.3127,oui,Moyen,Route to standard manual review
+H21226,0.1016,non,Faible,Auto-approve / fast-track underwriting
+H21227,0.1422,non,Faible,Auto-approve / fast-track underwriting
+H21228,0.3848,oui,Moyen,Route to standard manual review
+H21229,0.1383,non,Faible,Auto-approve / fast-track underwriting
+H21230,0.2967,oui,Moyen,Route to standard manual review
+H21231,0.1026,non,Faible,Auto-approve / fast-track underwriting
+H21232,0.322,oui,Moyen,Route to standard manual review
+H21233,0.3448,oui,Moyen,Route to standard manual review
+H21234,0.1863,oui,Faible,Auto-approve / fast-track underwriting
+H21235,0.3115,oui,Moyen,Route to standard manual review
+H21236,0.1116,non,Faible,Auto-approve / fast-track underwriting
+H21237,0.3153,oui,Moyen,Route to standard manual review
+H21238,0.3776,oui,Moyen,Route to standard manual review
+H21239,0.2465,oui,Moyen,Route to standard manual review
+H21240,0.2382,oui,Moyen,Route to standard manual review
+H21241,0.1062,non,Faible,Auto-approve / fast-track underwriting
+H21242,0.2527,oui,Moyen,Route to standard manual review
+H21243,0.117,non,Faible,Auto-approve / fast-track underwriting
+H21244,0.1196,non,Faible,Auto-approve / fast-track underwriting
+H21245,0.1599,non,Faible,Auto-approve / fast-track underwriting
+H21246,0.2355,oui,Moyen,Route to standard manual review
+H21247,0.2329,oui,Moyen,Route to standard manual review
+H21248,0.2032,oui,Faible,Auto-approve / fast-track underwriting
+H21249,0.386,oui,Moyen,Route to standard manual review
+H21250,0.1259,non,Faible,Auto-approve / fast-track underwriting
+H21251,0.1384,non,Faible,Auto-approve / fast-track underwriting
+H21252,0.2887,oui,Moyen,Route to standard manual review
+H21253,0.29,oui,Moyen,Route to standard manual review
+H21254,0.2708,oui,Moyen,Route to standard manual review
+H21255,0.2227,oui,Moyen,Route to standard manual review
+H21256,0.1305,non,Faible,Auto-approve / fast-track underwriting
+H21257,0.4928,oui,Élevé,Escalate to senior underwriter + request inspection
+H21258,0.2962,oui,Moyen,Route to standard manual review
+H21259,0.1088,non,Faible,Auto-approve / fast-track underwriting
+H21260,0.1813,oui,Faible,Auto-approve / fast-track underwriting
+H21261,0.1212,non,Faible,Auto-approve / fast-track underwriting
+H21262,0.1859,oui,Faible,Auto-approve / fast-track underwriting
+H21263,0.1934,oui,Faible,Auto-approve / fast-track underwriting
+H21264,0.1647,non,Faible,Auto-approve / fast-track underwriting
+H21265,0.2584,oui,Moyen,Route to standard manual review
+H21266,0.3952,oui,Moyen,Route to standard manual review
+H21267,0.3771,oui,Moyen,Route to standard manual review
+H21268,0.2518,oui,Moyen,Route to standard manual review
+H21269,0.2121,oui,Faible,Auto-approve / fast-track underwriting
+H21270,0.2575,oui,Moyen,Route to standard manual review
+H21271,0.3107,oui,Moyen,Route to standard manual review
+H21272,0.2203,oui,Faible,Auto-approve / fast-track underwriting
+H21273,0.3112,oui,Moyen,Route to standard manual review
+H21274,0.1146,non,Faible,Auto-approve / fast-track underwriting
+H21275,0.2685,oui,Moyen,Route to standard manual review
+H21276,0.1681,non,Faible,Auto-approve / fast-track underwriting
+H21277,0.1898,oui,Faible,Auto-approve / fast-track underwriting
+H21278,0.3576,oui,Moyen,Route to standard manual review
+H21279,0.2927,oui,Moyen,Route to standard manual review
+H21280,0.4105,oui,Moyen,Route to standard manual review
+H21281,0.3557,oui,Moyen,Route to standard manual review
+H21282,0.2242,oui,Moyen,Route to standard manual review
+H21283,0.0951,non,Faible,Auto-approve / fast-track underwriting
+H21284,0.0804,non,Faible,Auto-approve / fast-track underwriting
+H21285,0.2869,oui,Moyen,Route to standard manual review
+H21286,0.3598,oui,Moyen,Route to standard manual review
+H21287,0.1922,oui,Faible,Auto-approve / fast-track underwriting
+H21288,0.0822,non,Faible,Auto-approve / fast-track underwriting
+H21289,0.1188,non,Faible,Auto-approve / fast-track underwriting
+H21290,0.2755,oui,Moyen,Route to standard manual review
+H21291,0.1579,non,Faible,Auto-approve / fast-track underwriting
+H21292,0.1589,non,Faible,Auto-approve / fast-track underwriting
+H21293,0.3766,oui,Moyen,Route to standard manual review
+H21294,0.1391,non,Faible,Auto-approve / fast-track underwriting
+H21295,0.194,oui,Faible,Auto-approve / fast-track underwriting
+H21296,0.0694,non,Faible,Auto-approve / fast-track underwriting
+H21297,0.2053,oui,Faible,Auto-approve / fast-track underwriting
+H21298,0.2837,oui,Moyen,Route to standard manual review
+H21299,0.2226,oui,Moyen,Route to standard manual review
+H21300,0.2247,oui,Moyen,Route to standard manual review
+H21301,0.2325,oui,Moyen,Route to standard manual review
+H21302,0.3369,oui,Moyen,Route to standard manual review
+H21303,0.124,non,Faible,Auto-approve / fast-track underwriting
+H21304,0.3364,oui,Moyen,Route to standard manual review
+H21305,0.1755,non,Faible,Auto-approve / fast-track underwriting
+H21306,0.0916,non,Faible,Auto-approve / fast-track underwriting
+H21307,0.0724,non,Faible,Auto-approve / fast-track underwriting
+H21308,0.2923,oui,Moyen,Route to standard manual review
+H21309,0.1917,oui,Faible,Auto-approve / fast-track underwriting
+H21310,0.3949,oui,Moyen,Route to standard manual review
+H21311,0.5369,oui,Élevé,Escalate to senior underwriter + request inspection
+H21312,0.4417,oui,Moyen,Route to standard manual review
+H21313,0.108,non,Faible,Auto-approve / fast-track underwriting
+H21314,0.1576,non,Faible,Auto-approve / fast-track underwriting
+H21315,0.1514,non,Faible,Auto-approve / fast-track underwriting
+H21316,0.1849,oui,Faible,Auto-approve / fast-track underwriting
+H21317,0.1841,oui,Faible,Auto-approve / fast-track underwriting
+H21318,0.1161,non,Faible,Auto-approve / fast-track underwriting
+H21319,0.2347,oui,Moyen,Route to standard manual review
+H21320,0.2762,oui,Moyen,Route to standard manual review
+H21321,0.112,non,Faible,Auto-approve / fast-track underwriting
+H21322,0.1491,non,Faible,Auto-approve / fast-track underwriting
+H21323,0.202,oui,Faible,Auto-approve / fast-track underwriting
+H21324,0.3187,oui,Moyen,Route to standard manual review
+H21325,0.3157,oui,Moyen,Route to standard manual review
+H21326,0.3888,oui,Moyen,Route to standard manual review
+H21327,0.2181,oui,Faible,Auto-approve / fast-track underwriting
+H21328,0.2249,oui,Moyen,Route to standard manual review
+H21329,0.4801,oui,Élevé,Escalate to senior underwriter + request inspection
+H21330,0.2522,oui,Moyen,Route to standard manual review
+H21331,0.1759,oui,Faible,Auto-approve / fast-track underwriting
+H21332,0.177,oui,Faible,Auto-approve / fast-track underwriting
+H21333,0.3379,oui,Moyen,Route to standard manual review
+H21334,0.2114,oui,Faible,Auto-approve / fast-track underwriting
+H21335,0.4811,oui,Élevé,Escalate to senior underwriter + request inspection
+H21336,0.1013,non,Faible,Auto-approve / fast-track underwriting
+H21337,0.2356,oui,Moyen,Route to standard manual review
+H21338,0.065,non,Faible,Auto-approve / fast-track underwriting
+H21339,0.3267,oui,Moyen,Route to standard manual review
+H21340,0.4171,oui,Moyen,Route to standard manual review
+H21341,0.2147,oui,Faible,Auto-approve / fast-track underwriting
+H21342,0.1367,non,Faible,Auto-approve / fast-track underwriting
+H21343,0.0951,non,Faible,Auto-approve / fast-track underwriting
+H21344,0.3092,oui,Moyen,Route to standard manual review
+H21345,0.2755,oui,Moyen,Route to standard manual review
+H21346,0.187,oui,Faible,Auto-approve / fast-track underwriting
+H21347,0.2886,oui,Moyen,Route to standard manual review
+H21348,0.0982,non,Faible,Auto-approve / fast-track underwriting
+H21349,0.0673,non,Faible,Auto-approve / fast-track underwriting
+H21350,0.2148,oui,Faible,Auto-approve / fast-track underwriting
+H21351,0.2008,oui,Faible,Auto-approve / fast-track underwriting
+H21352,0.4472,oui,Élevé,Escalate to senior underwriter + request inspection
+H21353,0.499,oui,Élevé,Escalate to senior underwriter + request inspection
+H21354,0.232,oui,Moyen,Route to standard manual review
+H21355,0.0841,non,Faible,Auto-approve / fast-track underwriting
+H21356,0.2193,oui,Faible,Auto-approve / fast-track underwriting
+H21357,0.1274,non,Faible,Auto-approve / fast-track underwriting
+H21358,0.3588,oui,Moyen,Route to standard manual review
+H21359,0.1188,non,Faible,Auto-approve / fast-track underwriting
+H21360,0.106,non,Faible,Auto-approve / fast-track underwriting
+H21361,0.1024,non,Faible,Auto-approve / fast-track underwriting
+H21362,0.1202,non,Faible,Auto-approve / fast-track underwriting
+H21363,0.1251,non,Faible,Auto-approve / fast-track underwriting
+H21364,0.2464,oui,Moyen,Route to standard manual review
+H21365,0.2474,oui,Moyen,Route to standard manual review
+H21366,0.2921,oui,Moyen,Route to standard manual review
+H21367,0.114,non,Faible,Auto-approve / fast-track underwriting
+H21368,0.0838,non,Faible,Auto-approve / fast-track underwriting
+H21369,0.2712,oui,Moyen,Route to standard manual review
+H21370,0.1805,oui,Faible,Auto-approve / fast-track underwriting
+H21371,0.3032,oui,Moyen,Route to standard manual review
+H21372,0.2121,oui,Faible,Auto-approve / fast-track underwriting
+H21373,0.4754,oui,Élevé,Escalate to senior underwriter + request inspection
+H21374,0.1389,non,Faible,Auto-approve / fast-track underwriting
+H21375,0.0808,non,Faible,Auto-approve / fast-track underwriting
+H21376,0.2018,oui,Faible,Auto-approve / fast-track underwriting
+H21377,0.2656,oui,Moyen,Route to standard manual review
+H21378,0.111,non,Faible,Auto-approve / fast-track underwriting
+H21379,0.2077,oui,Faible,Auto-approve / fast-track underwriting
+H21380,0.2376,oui,Moyen,Route to standard manual review
+H21381,0.1106,non,Faible,Auto-approve / fast-track underwriting
+H21382,0.357,oui,Moyen,Route to standard manual review
+H21383,0.2853,oui,Moyen,Route to standard manual review
+H21384,0.305,oui,Moyen,Route to standard manual review
+H21385,0.2623,oui,Moyen,Route to standard manual review
+H21386,0.1498,non,Faible,Auto-approve / fast-track underwriting
+H21387,0.4347,oui,Moyen,Route to standard manual review
+H21388,0.2712,oui,Moyen,Route to standard manual review
+H21389,0.1823,oui,Faible,Auto-approve / fast-track underwriting
+H21390,0.2737,oui,Moyen,Route to standard manual review
+H21391,0.2058,oui,Faible,Auto-approve / fast-track underwriting
+H21392,0.1572,non,Faible,Auto-approve / fast-track underwriting
+H21393,0.2684,oui,Moyen,Route to standard manual review
+H21394,0.1227,non,Faible,Auto-approve / fast-track underwriting
+H21395,0.4385,oui,Moyen,Route to standard manual review
+H21396,0.3622,oui,Moyen,Route to standard manual review
+H21397,0.1491,non,Faible,Auto-approve / fast-track underwriting
+H21398,0.3171,oui,Moyen,Route to standard manual review
+H21399,0.0793,non,Faible,Auto-approve / fast-track underwriting
+H21400,0.3185,oui,Moyen,Route to standard manual review
+H21401,0.0953,non,Faible,Auto-approve / fast-track underwriting
+H21402,0.1534,non,Faible,Auto-approve / fast-track underwriting
+H21403,0.1963,oui,Faible,Auto-approve / fast-track underwriting
+H21404,0.0935,non,Faible,Auto-approve / fast-track underwriting
+H21405,0.3939,oui,Moyen,Route to standard manual review
+H21406,0.4424,oui,Élevé,Escalate to senior underwriter + request inspection
+H21407,0.1433,non,Faible,Auto-approve / fast-track underwriting
+H21408,0.1257,non,Faible,Auto-approve / fast-track underwriting
+H21409,0.3669,oui,Moyen,Route to standard manual review
+H21410,0.1295,non,Faible,Auto-approve / fast-track underwriting
+H21411,0.4191,oui,Moyen,Route to standard manual review
+H21412,0.2287,oui,Moyen,Route to standard manual review
+H21413,0.239,oui,Moyen,Route to standard manual review
+H21414,0.1244,non,Faible,Auto-approve / fast-track underwriting
+H21415,0.1766,oui,Faible,Auto-approve / fast-track underwriting
+H21416,0.226,oui,Moyen,Route to standard manual review
+H21417,0.1376,non,Faible,Auto-approve / fast-track underwriting
+H21418,0.3964,oui,Moyen,Route to standard manual review
+H21419,0.4014,oui,Moyen,Route to standard manual review
+H21420,0.3565,oui,Moyen,Route to standard manual review
+H21421,0.1968,oui,Faible,Auto-approve / fast-track underwriting
+H21422,0.1813,oui,Faible,Auto-approve / fast-track underwriting
+H21423,0.3413,oui,Moyen,Route to standard manual review
+H21424,0.3124,oui,Moyen,Route to standard manual review
+H21425,0.4341,oui,Moyen,Route to standard manual review
+H21426,0.1204,non,Faible,Auto-approve / fast-track underwriting
+H21427,0.4609,oui,Élevé,Escalate to senior underwriter + request inspection
+H21428,0.2408,oui,Moyen,Route to standard manual review
+H21429,0.2224,oui,Moyen,Route to standard manual review
+H21430,0.4165,oui,Moyen,Route to standard manual review
+H21431,0.1433,non,Faible,Auto-approve / fast-track underwriting
+H21432,0.2471,oui,Moyen,Route to standard manual review
+H21433,0.2856,oui,Moyen,Route to standard manual review
+H21434,0.1729,non,Faible,Auto-approve / fast-track underwriting
+H21435,0.2714,oui,Moyen,Route to standard manual review
+H21436,0.2308,oui,Moyen,Route to standard manual review
+H21437,0.1818,oui,Faible,Auto-approve / fast-track underwriting
+H21438,0.1662,non,Faible,Auto-approve / fast-track underwriting
+H21439,0.1631,non,Faible,Auto-approve / fast-track underwriting
+H21440,0.0873,non,Faible,Auto-approve / fast-track underwriting
+H21441,0.093,non,Faible,Auto-approve / fast-track underwriting
+H21442,0.247,oui,Moyen,Route to standard manual review
+H21443,0.151,non,Faible,Auto-approve / fast-track underwriting
+H21444,0.1424,non,Faible,Auto-approve / fast-track underwriting
+H21445,0.1766,oui,Faible,Auto-approve / fast-track underwriting
+H21446,0.1774,oui,Faible,Auto-approve / fast-track underwriting
+H21447,0.2563,oui,Moyen,Route to standard manual review
+H21448,0.0935,non,Faible,Auto-approve / fast-track underwriting
+H21449,0.1096,non,Faible,Auto-approve / fast-track underwriting
+H21450,0.2634,oui,Moyen,Route to standard manual review
+H21451,0.2619,oui,Moyen,Route to standard manual review
+H21452,0.1749,non,Faible,Auto-approve / fast-track underwriting
+H21453,0.198,oui,Faible,Auto-approve / fast-track underwriting
+H21454,0.3295,oui,Moyen,Route to standard manual review
+H21455,0.2394,oui,Moyen,Route to standard manual review
+H21456,0.3144,oui,Moyen,Route to standard manual review
+H21457,0.1694,non,Faible,Auto-approve / fast-track underwriting
+H21458,0.3648,oui,Moyen,Route to standard manual review
+H21459,0.0875,non,Faible,Auto-approve / fast-track underwriting
+H21460,0.1305,non,Faible,Auto-approve / fast-track underwriting
+H21461,0.2714,oui,Moyen,Route to standard manual review
+H21462,0.2503,oui,Moyen,Route to standard manual review
+H21463,0.3207,oui,Moyen,Route to standard manual review
+H21464,0.2751,oui,Moyen,Route to standard manual review
+H21465,0.3379,oui,Moyen,Route to standard manual review
+H21466,0.2265,oui,Moyen,Route to standard manual review
+H21467,0.0691,non,Faible,Auto-approve / fast-track underwriting
+H21468,0.4037,oui,Moyen,Route to standard manual review
+H21469,0.1616,non,Faible,Auto-approve / fast-track underwriting
+H21470,0.1462,non,Faible,Auto-approve / fast-track underwriting
+H21471,0.2068,oui,Faible,Auto-approve / fast-track underwriting
+H21472,0.1444,non,Faible,Auto-approve / fast-track underwriting
+H21473,0.257,oui,Moyen,Route to standard manual review
+H21474,0.1182,non,Faible,Auto-approve / fast-track underwriting
+H21475,0.3956,oui,Moyen,Route to standard manual review
+H21476,0.1803,oui,Faible,Auto-approve / fast-track underwriting
+H21477,0.1511,non,Faible,Auto-approve / fast-track underwriting
+H21478,0.2032,oui,Faible,Auto-approve / fast-track underwriting
+H21479,0.1813,oui,Faible,Auto-approve / fast-track underwriting
+H21480,0.142,non,Faible,Auto-approve / fast-track underwriting
+H21481,0.2673,oui,Moyen,Route to standard manual review
+H21482,0.2016,oui,Faible,Auto-approve / fast-track underwriting
+H21483,0.1265,non,Faible,Auto-approve / fast-track underwriting
+H21484,0.3472,oui,Moyen,Route to standard manual review
+H21485,0.4211,oui,Moyen,Route to standard manual review
+H21486,0.1069,non,Faible,Auto-approve / fast-track underwriting
+H21487,0.2126,oui,Faible,Auto-approve / fast-track underwriting
+H21488,0.1723,non,Faible,Auto-approve / fast-track underwriting
+H21489,0.2604,oui,Moyen,Route to standard manual review
+H21490,0.2162,oui,Faible,Auto-approve / fast-track underwriting
+H21491,0.2886,oui,Moyen,Route to standard manual review
+H21492,0.3844,oui,Moyen,Route to standard manual review
+H21493,0.2211,oui,Moyen,Route to standard manual review
+H21494,0.1117,non,Faible,Auto-approve / fast-track underwriting
+H21495,0.2082,oui,Faible,Auto-approve / fast-track underwriting
+H21496,0.382,oui,Moyen,Route to standard manual review
+H21497,0.1627,non,Faible,Auto-approve / fast-track underwriting
+H21498,0.3556,oui,Moyen,Route to standard manual review
+H21499,0.1715,non,Faible,Auto-approve / fast-track underwriting
+H21500,0.1319,non,Faible,Auto-approve / fast-track underwriting
+H21501,0.2589,oui,Moyen,Route to standard manual review
+H21502,0.263,oui,Moyen,Route to standard manual review
+H21503,0.4134,oui,Moyen,Route to standard manual review
+H21504,0.1612,non,Faible,Auto-approve / fast-track underwriting
+H21505,0.2518,oui,Moyen,Route to standard manual review
+H21506,0.2288,oui,Moyen,Route to standard manual review
+H21507,0.2014,oui,Faible,Auto-approve / fast-track underwriting
+H21508,0.2243,oui,Moyen,Route to standard manual review
+H21509,0.4646,oui,Élevé,Escalate to senior underwriter + request inspection
+H21510,0.4028,oui,Moyen,Route to standard manual review
+H21511,0.4424,oui,Élevé,Escalate to senior underwriter + request inspection
+H21512,0.2327,oui,Moyen,Route to standard manual review
+H21513,0.2051,oui,Faible,Auto-approve / fast-track underwriting
+H21514,0.1666,non,Faible,Auto-approve / fast-track underwriting
+H21515,0.1905,oui,Faible,Auto-approve / fast-track underwriting
+H21516,0.2619,oui,Moyen,Route to standard manual review
+H21517,0.1461,non,Faible,Auto-approve / fast-track underwriting
+H21518,0.1663,non,Faible,Auto-approve / fast-track underwriting
+H21519,0.2496,oui,Moyen,Route to standard manual review
+H21520,0.1129,non,Faible,Auto-approve / fast-track underwriting
+H21521,0.229,oui,Moyen,Route to standard manual review
+H21522,0.1931,oui,Faible,Auto-approve / fast-track underwriting
+H21523,0.3198,oui,Moyen,Route to standard manual review
+H21524,0.2348,oui,Moyen,Route to standard manual review
+H21525,0.2006,oui,Faible,Auto-approve / fast-track underwriting
+H21526,0.3035,oui,Moyen,Route to standard manual review
+H21527,0.2844,oui,Moyen,Route to standard manual review
+H21528,0.2318,oui,Moyen,Route to standard manual review
+H21529,0.2201,oui,Faible,Auto-approve / fast-track underwriting
+H21530,0.4968,oui,Élevé,Escalate to senior underwriter + request inspection
+H21531,0.4201,oui,Moyen,Route to standard manual review
+H21532,0.1914,oui,Faible,Auto-approve / fast-track underwriting
+H21533,0.2254,oui,Moyen,Route to standard manual review
+H21534,0.1561,non,Faible,Auto-approve / fast-track underwriting
+H21535,0.3554,oui,Moyen,Route to standard manual review
+H21536,0.0653,non,Faible,Auto-approve / fast-track underwriting
+H21537,0.2539,oui,Moyen,Route to standard manual review
+H21538,0.24,oui,Moyen,Route to standard manual review
+H21539,0.3253,oui,Moyen,Route to standard manual review
+H21540,0.256,oui,Moyen,Route to standard manual review
+H21541,0.1041,non,Faible,Auto-approve / fast-track underwriting
+H21542,0.1254,non,Faible,Auto-approve / fast-track underwriting
+H21543,0.0666,non,Faible,Auto-approve / fast-track underwriting
+H21544,0.2537,oui,Moyen,Route to standard manual review
+H21545,0.2668,oui,Moyen,Route to standard manual review
+H21546,0.3952,oui,Moyen,Route to standard manual review
+H21547,0.1398,non,Faible,Auto-approve / fast-track underwriting
+H21548,0.3716,oui,Moyen,Route to standard manual review
+H21549,0.1087,non,Faible,Auto-approve / fast-track underwriting
+H21550,0.2874,oui,Moyen,Route to standard manual review
+H21551,0.0786,non,Faible,Auto-approve / fast-track underwriting
+H21552,0.1458,non,Faible,Auto-approve / fast-track underwriting
+H21553,0.1285,non,Faible,Auto-approve / fast-track underwriting
+H21554,0.2879,oui,Moyen,Route to standard manual review
+H21555,0.1848,oui,Faible,Auto-approve / fast-track underwriting
+H21556,0.2188,oui,Faible,Auto-approve / fast-track underwriting
+H21557,0.1415,non,Faible,Auto-approve / fast-track underwriting
+H21558,0.1371,non,Faible,Auto-approve / fast-track underwriting
+H21559,0.3837,oui,Moyen,Route to standard manual review
+H21560,0.1931,oui,Faible,Auto-approve / fast-track underwriting
+H21561,0.1228,non,Faible,Auto-approve / fast-track underwriting
+H21562,0.2236,oui,Moyen,Route to standard manual review
+H21563,0.1138,non,Faible,Auto-approve / fast-track underwriting
+H21564,0.1755,non,Faible,Auto-approve / fast-track underwriting
+H21565,0.1513,non,Faible,Auto-approve / fast-track underwriting
+H21566,0.2875,oui,Moyen,Route to standard manual review
+H21567,0.3495,oui,Moyen,Route to standard manual review
+H21568,0.1796,oui,Faible,Auto-approve / fast-track underwriting
+H21569,0.3343,oui,Moyen,Route to standard manual review
+H21570,0.3547,oui,Moyen,Route to standard manual review
+H21571,0.2729,oui,Moyen,Route to standard manual review
+H21572,0.2031,oui,Faible,Auto-approve / fast-track underwriting
+H21573,0.1976,oui,Faible,Auto-approve / fast-track underwriting
+H21574,0.0677,non,Faible,Auto-approve / fast-track underwriting
+H21575,0.1775,oui,Faible,Auto-approve / fast-track underwriting
+H21576,0.2035,oui,Faible,Auto-approve / fast-track underwriting
+H21577,0.1306,non,Faible,Auto-approve / fast-track underwriting
+H21578,0.1761,oui,Faible,Auto-approve / fast-track underwriting
+H21579,0.2108,oui,Faible,Auto-approve / fast-track underwriting
+H21580,0.1726,non,Faible,Auto-approve / fast-track underwriting
+H21581,0.1602,non,Faible,Auto-approve / fast-track underwriting
+H21582,0.1957,oui,Faible,Auto-approve / fast-track underwriting
+H21583,0.1102,non,Faible,Auto-approve / fast-track underwriting
+H21584,0.2882,oui,Moyen,Route to standard manual review
+H21585,0.3107,oui,Moyen,Route to standard manual review
+H21586,0.2707,oui,Moyen,Route to standard manual review
+H21587,0.385,oui,Moyen,Route to standard manual review
+H21588,0.3004,oui,Moyen,Route to standard manual review
+H21589,0.2091,oui,Faible,Auto-approve / fast-track underwriting
+H21590,0.2182,oui,Faible,Auto-approve / fast-track underwriting
+H21591,0.2535,oui,Moyen,Route to standard manual review
+H21592,0.141,non,Faible,Auto-approve / fast-track underwriting
+H21593,0.0943,non,Faible,Auto-approve / fast-track underwriting
+H21594,0.2337,oui,Moyen,Route to standard manual review
+H21595,0.2197,oui,Faible,Auto-approve / fast-track underwriting
+H21596,0.1383,non,Faible,Auto-approve / fast-track underwriting
+H21597,0.1469,non,Faible,Auto-approve / fast-track underwriting
+H21598,0.266,oui,Moyen,Route to standard manual review
+H21599,0.1427,non,Faible,Auto-approve / fast-track underwriting
+H21600,0.2481,oui,Moyen,Route to standard manual review
+H21601,0.1834,oui,Faible,Auto-approve / fast-track underwriting
+H21602,0.2067,oui,Faible,Auto-approve / fast-track underwriting
+H21603,0.1801,oui,Faible,Auto-approve / fast-track underwriting
+H21604,0.1775,oui,Faible,Auto-approve / fast-track underwriting
+H21605,0.2136,oui,Faible,Auto-approve / fast-track underwriting
+H21606,0.3841,oui,Moyen,Route to standard manual review
+H21607,0.327,oui,Moyen,Route to standard manual review
+H21608,0.2286,oui,Moyen,Route to standard manual review
+H21609,0.1899,oui,Faible,Auto-approve / fast-track underwriting
+H21610,0.4615,oui,Élevé,Escalate to senior underwriter + request inspection
+H21611,0.1924,oui,Faible,Auto-approve / fast-track underwriting
+H21612,0.4311,oui,Moyen,Route to standard manual review
+H21613,0.1434,non,Faible,Auto-approve / fast-track underwriting
+H21614,0.432,oui,Moyen,Route to standard manual review
+H21615,0.3255,oui,Moyen,Route to standard manual review
+H21616,0.1051,non,Faible,Auto-approve / fast-track underwriting
+H21617,0.1889,oui,Faible,Auto-approve / fast-track underwriting
+H21618,0.3551,oui,Moyen,Route to standard manual review
+H21619,0.1671,non,Faible,Auto-approve / fast-track underwriting
+H21620,0.1577,non,Faible,Auto-approve / fast-track underwriting
+H21621,0.3005,oui,Moyen,Route to standard manual review
+H21622,0.4206,oui,Moyen,Route to standard manual review
+H21623,0.3323,oui,Moyen,Route to standard manual review
+H21624,0.1934,oui,Faible,Auto-approve / fast-track underwriting
+H21625,0.3089,oui,Moyen,Route to standard manual review
+H21626,0.1595,non,Faible,Auto-approve / fast-track underwriting
+H21627,0.2003,oui,Faible,Auto-approve / fast-track underwriting
+H21628,0.118,non,Faible,Auto-approve / fast-track underwriting
+H21629,0.1566,non,Faible,Auto-approve / fast-track underwriting
+H21630,0.101,non,Faible,Auto-approve / fast-track underwriting
+H21631,0.2684,oui,Moyen,Route to standard manual review
+H21632,0.1802,oui,Faible,Auto-approve / fast-track underwriting
+H21633,0.2104,oui,Faible,Auto-approve / fast-track underwriting
+H21634,0.3175,oui,Moyen,Route to standard manual review
+H21635,0.1119,non,Faible,Auto-approve / fast-track underwriting
+H21636,0.2097,oui,Faible,Auto-approve / fast-track underwriting
+H21637,0.1846,oui,Faible,Auto-approve / fast-track underwriting
+H21638,0.2318,oui,Moyen,Route to standard manual review
+H21639,0.0759,non,Faible,Auto-approve / fast-track underwriting
+H21640,0.3206,oui,Moyen,Route to standard manual review
+H21641,0.2178,oui,Faible,Auto-approve / fast-track underwriting
+H21642,0.1562,non,Faible,Auto-approve / fast-track underwriting
+H21643,0.075,non,Faible,Auto-approve / fast-track underwriting
+H21644,0.2953,oui,Moyen,Route to standard manual review
+H21645,0.2061,oui,Faible,Auto-approve / fast-track underwriting
+H21646,0.1037,non,Faible,Auto-approve / fast-track underwriting
+H21647,0.4198,oui,Moyen,Route to standard manual review
+H21648,0.275,oui,Moyen,Route to standard manual review
+H21649,0.3241,oui,Moyen,Route to standard manual review
+H21650,0.2064,oui,Faible,Auto-approve / fast-track underwriting
+H21651,0.2336,oui,Moyen,Route to standard manual review
+H21652,0.3362,oui,Moyen,Route to standard manual review
+H21653,0.2028,oui,Faible,Auto-approve / fast-track underwriting
+H21654,0.211,oui,Faible,Auto-approve / fast-track underwriting
+H21655,0.1879,oui,Faible,Auto-approve / fast-track underwriting
+H21656,0.3296,oui,Moyen,Route to standard manual review
+H21657,0.1111,non,Faible,Auto-approve / fast-track underwriting
+H21658,0.1305,non,Faible,Auto-approve / fast-track underwriting
+H21659,0.166,non,Faible,Auto-approve / fast-track underwriting
+H21660,0.2846,oui,Moyen,Route to standard manual review
+H21661,0.1963,oui,Faible,Auto-approve / fast-track underwriting
+H21662,0.2777,oui,Moyen,Route to standard manual review
+H21663,0.2061,oui,Faible,Auto-approve / fast-track underwriting
+H21664,0.1126,non,Faible,Auto-approve / fast-track underwriting
+H21665,0.3218,oui,Moyen,Route to standard manual review
+H21666,0.1217,non,Faible,Auto-approve / fast-track underwriting
+H21667,0.1744,non,Faible,Auto-approve / fast-track underwriting
+H21668,0.3398,oui,Moyen,Route to standard manual review
+H21669,0.1753,non,Faible,Auto-approve / fast-track underwriting
+H21670,0.1074,non,Faible,Auto-approve / fast-track underwriting
+H21671,0.1102,non,Faible,Auto-approve / fast-track underwriting
+H21672,0.219,oui,Faible,Auto-approve / fast-track underwriting
+H21673,0.1809,oui,Faible,Auto-approve / fast-track underwriting
+H21674,0.2491,oui,Moyen,Route to standard manual review
+H21675,0.1248,non,Faible,Auto-approve / fast-track underwriting
+H21676,0.3468,oui,Moyen,Route to standard manual review
+H21677,0.3369,oui,Moyen,Route to standard manual review
+H21678,0.1338,non,Faible,Auto-approve / fast-track underwriting
+H21679,0.4964,oui,Élevé,Escalate to senior underwriter + request inspection
+H21680,0.3921,oui,Moyen,Route to standard manual review
+H21681,0.1381,non,Faible,Auto-approve / fast-track underwriting
+H21682,0.212,oui,Faible,Auto-approve / fast-track underwriting
+H21683,0.0955,non,Faible,Auto-approve / fast-track underwriting
+H21684,0.3155,oui,Moyen,Route to standard manual review
+H21685,0.198,oui,Faible,Auto-approve / fast-track underwriting
+H21686,0.2193,oui,Faible,Auto-approve / fast-track underwriting
+H21687,0.3083,oui,Moyen,Route to standard manual review
+H21688,0.1224,non,Faible,Auto-approve / fast-track underwriting
+H21689,0.1335,non,Faible,Auto-approve / fast-track underwriting
+H21690,0.3547,oui,Moyen,Route to standard manual review
+H21691,0.1806,oui,Faible,Auto-approve / fast-track underwriting
+H21692,0.1487,non,Faible,Auto-approve / fast-track underwriting
+H21693,0.1646,non,Faible,Auto-approve / fast-track underwriting
+H21694,0.254,oui,Moyen,Route to standard manual review
+H21695,0.1622,non,Faible,Auto-approve / fast-track underwriting
+H21696,0.1607,non,Faible,Auto-approve / fast-track underwriting
+H21697,0.2457,oui,Moyen,Route to standard manual review
+H21698,0.215,oui,Faible,Auto-approve / fast-track underwriting
+H21699,0.2093,oui,Faible,Auto-approve / fast-track underwriting
+H21700,0.2344,oui,Moyen,Route to standard manual review
+H21701,0.2554,oui,Moyen,Route to standard manual review
+H21702,0.1965,oui,Faible,Auto-approve / fast-track underwriting
+H21703,0.1134,non,Faible,Auto-approve / fast-track underwriting
+H21704,0.3109,oui,Moyen,Route to standard manual review
+H21705,0.0924,non,Faible,Auto-approve / fast-track underwriting
+H21706,0.3146,oui,Moyen,Route to standard manual review
+H21707,0.4265,oui,Moyen,Route to standard manual review
+H21708,0.1834,oui,Faible,Auto-approve / fast-track underwriting
+H21709,0.1089,non,Faible,Auto-approve / fast-track underwriting
+H21710,0.259,oui,Moyen,Route to standard manual review
+H21711,0.217,oui,Faible,Auto-approve / fast-track underwriting
+H21712,0.1521,non,Faible,Auto-approve / fast-track underwriting
+H21713,0.1542,non,Faible,Auto-approve / fast-track underwriting
+H21714,0.1722,non,Faible,Auto-approve / fast-track underwriting
+H21715,0.0995,non,Faible,Auto-approve / fast-track underwriting
+H21716,0.3024,oui,Moyen,Route to standard manual review
+H21717,0.2681,oui,Moyen,Route to standard manual review
+H21718,0.3213,oui,Moyen,Route to standard manual review
+H21719,0.2923,oui,Moyen,Route to standard manual review
+H21720,0.1472,non,Faible,Auto-approve / fast-track underwriting
+H21721,0.2389,oui,Moyen,Route to standard manual review
+H21722,0.3874,oui,Moyen,Route to standard manual review
+H21723,0.1406,non,Faible,Auto-approve / fast-track underwriting
+H21724,0.2952,oui,Moyen,Route to standard manual review
+H21725,0.172,non,Faible,Auto-approve / fast-track underwriting
+H21726,0.2144,oui,Faible,Auto-approve / fast-track underwriting
+H21727,0.1357,non,Faible,Auto-approve / fast-track underwriting
+H21728,0.1311,non,Faible,Auto-approve / fast-track underwriting
+H21729,0.3295,oui,Moyen,Route to standard manual review
+H21730,0.2344,oui,Moyen,Route to standard manual review
+H21731,0.1947,oui,Faible,Auto-approve / fast-track underwriting
+H21732,0.2054,oui,Faible,Auto-approve / fast-track underwriting
+H21733,0.3545,oui,Moyen,Route to standard manual review
+H21734,0.09,non,Faible,Auto-approve / fast-track underwriting
+H21735,0.0788,non,Faible,Auto-approve / fast-track underwriting
+H21736,0.1675,non,Faible,Auto-approve / fast-track underwriting
+H21737,0.1863,oui,Faible,Auto-approve / fast-track underwriting
+H21738,0.3073,oui,Moyen,Route to standard manual review
+H21739,0.2161,oui,Faible,Auto-approve / fast-track underwriting
+H21740,0.2829,oui,Moyen,Route to standard manual review
+H21741,0.3038,oui,Moyen,Route to standard manual review
+H21742,0.3313,oui,Moyen,Route to standard manual review
+H21743,0.1818,oui,Faible,Auto-approve / fast-track underwriting
+H21744,0.1516,non,Faible,Auto-approve / fast-track underwriting
+H21745,0.115,non,Faible,Auto-approve / fast-track underwriting
+H21746,0.0662,non,Faible,Auto-approve / fast-track underwriting
+H21747,0.5302,oui,Élevé,Escalate to senior underwriter + request inspection
+H21748,0.1196,non,Faible,Auto-approve / fast-track underwriting
+H21749,0.2592,oui,Moyen,Route to standard manual review
+H21750,0.0896,non,Faible,Auto-approve / fast-track underwriting
+H21751,0.1047,non,Faible,Auto-approve / fast-track underwriting
+H21752,0.1699,non,Faible,Auto-approve / fast-track underwriting
+H21753,0.3039,oui,Moyen,Route to standard manual review
+H21754,0.1285,non,Faible,Auto-approve / fast-track underwriting
+H21755,0.1843,oui,Faible,Auto-approve / fast-track underwriting
+H21756,0.1377,non,Faible,Auto-approve / fast-track underwriting
+H21757,0.3062,oui,Moyen,Route to standard manual review
+H21758,0.2979,oui,Moyen,Route to standard manual review
+H21759,0.3788,oui,Moyen,Route to standard manual review
+H21760,0.1965,oui,Faible,Auto-approve / fast-track underwriting
+H21761,0.1413,non,Faible,Auto-approve / fast-track underwriting
+H21762,0.1987,oui,Faible,Auto-approve / fast-track underwriting
+H21763,0.4534,oui,Élevé,Escalate to senior underwriter + request inspection
+H21764,0.2436,oui,Moyen,Route to standard manual review
+H21765,0.0722,non,Faible,Auto-approve / fast-track underwriting
+H21766,0.3551,oui,Moyen,Route to standard manual review
+H21767,0.3796,oui,Moyen,Route to standard manual review
+H21768,0.3107,oui,Moyen,Route to standard manual review
+H21769,0.4005,oui,Moyen,Route to standard manual review
+H21770,0.2788,oui,Moyen,Route to standard manual review
+H21771,0.1144,non,Faible,Auto-approve / fast-track underwriting
+H21772,0.0867,non,Faible,Auto-approve / fast-track underwriting
+H21773,0.1977,oui,Faible,Auto-approve / fast-track underwriting
+H21774,0.1279,non,Faible,Auto-approve / fast-track underwriting
+H21775,0.204,oui,Faible,Auto-approve / fast-track underwriting
+H21776,0.266,oui,Moyen,Route to standard manual review
+H21777,0.0739,non,Faible,Auto-approve / fast-track underwriting
+H21778,0.132,non,Faible,Auto-approve / fast-track underwriting
+H21779,0.2909,oui,Moyen,Route to standard manual review
+H21780,0.2751,oui,Moyen,Route to standard manual review
+H21781,0.14,non,Faible,Auto-approve / fast-track underwriting
+H21782,0.2102,oui,Faible,Auto-approve / fast-track underwriting
+H21783,0.3998,oui,Moyen,Route to standard manual review
+H21784,0.2536,oui,Moyen,Route to standard manual review
+H21785,0.2235,oui,Moyen,Route to standard manual review
+H21786,0.084,non,Faible,Auto-approve / fast-track underwriting
+H21787,0.2215,oui,Moyen,Route to standard manual review
+H21788,0.1084,non,Faible,Auto-approve / fast-track underwriting
+H21789,0.1749,non,Faible,Auto-approve / fast-track underwriting
+H21790,0.1145,non,Faible,Auto-approve / fast-track underwriting
+H21791,0.1441,non,Faible,Auto-approve / fast-track underwriting
+H21792,0.1225,non,Faible,Auto-approve / fast-track underwriting
+H21793,0.1404,non,Faible,Auto-approve / fast-track underwriting
+H21794,0.0872,non,Faible,Auto-approve / fast-track underwriting
+H21795,0.194,oui,Faible,Auto-approve / fast-track underwriting
+H21796,0.2968,oui,Moyen,Route to standard manual review
+H21797,0.1224,non,Faible,Auto-approve / fast-track underwriting
+H21798,0.2406,oui,Moyen,Route to standard manual review
+H21799,0.0935,non,Faible,Auto-approve / fast-track underwriting
+H21800,0.3189,oui,Moyen,Route to standard manual review
+H21801,0.1058,non,Faible,Auto-approve / fast-track underwriting
+H21802,0.2695,oui,Moyen,Route to standard manual review
+H21803,0.1081,non,Faible,Auto-approve / fast-track underwriting
+H21804,0.1218,non,Faible,Auto-approve / fast-track underwriting
+H21805,0.2555,oui,Moyen,Route to standard manual review
+H21806,0.2224,oui,Moyen,Route to standard manual review
+H21807,0.1178,non,Faible,Auto-approve / fast-track underwriting
+H21808,0.2343,oui,Moyen,Route to standard manual review
+H21809,0.255,oui,Moyen,Route to standard manual review
+H21810,0.4219,oui,Moyen,Route to standard manual review
+H21811,0.2503,oui,Moyen,Route to standard manual review
+H21812,0.0958,non,Faible,Auto-approve / fast-track underwriting
+H21813,0.4404,oui,Moyen,Route to standard manual review
+H21814,0.3149,oui,Moyen,Route to standard manual review
+H21815,0.3015,oui,Moyen,Route to standard manual review
+H21816,0.0993,non,Faible,Auto-approve / fast-track underwriting
+H21817,0.1412,non,Faible,Auto-approve / fast-track underwriting
+H21818,0.2705,oui,Moyen,Route to standard manual review
+H21819,0.2135,oui,Faible,Auto-approve / fast-track underwriting
+H21820,0.2157,oui,Faible,Auto-approve / fast-track underwriting
+H21821,0.2695,oui,Moyen,Route to standard manual review
+H21822,0.0943,non,Faible,Auto-approve / fast-track underwriting
+H21823,0.2809,oui,Moyen,Route to standard manual review
+H21824,0.1195,non,Faible,Auto-approve / fast-track underwriting
+H21825,0.3571,oui,Moyen,Route to standard manual review
+H21826,0.2585,oui,Moyen,Route to standard manual review
+H21827,0.3622,oui,Moyen,Route to standard manual review
+H21828,0.2157,oui,Faible,Auto-approve / fast-track underwriting
+H21829,0.1665,non,Faible,Auto-approve / fast-track underwriting
+H21830,0.3073,oui,Moyen,Route to standard manual review
+H21831,0.3117,oui,Moyen,Route to standard manual review
+H21832,0.2338,oui,Moyen,Route to standard manual review
+H21833,0.1666,non,Faible,Auto-approve / fast-track underwriting
+H21834,0.2618,oui,Moyen,Route to standard manual review
+H21835,0.2062,oui,Faible,Auto-approve / fast-track underwriting
+H21836,0.1597,non,Faible,Auto-approve / fast-track underwriting
+H21837,0.1819,oui,Faible,Auto-approve / fast-track underwriting
+H21838,0.2661,oui,Moyen,Route to standard manual review
+H21839,0.2245,oui,Moyen,Route to standard manual review
+H21840,0.4563,oui,Élevé,Escalate to senior underwriter + request inspection
+H21841,0.3465,oui,Moyen,Route to standard manual review
+H21842,0.1047,non,Faible,Auto-approve / fast-track underwriting
+H21843,0.2653,oui,Moyen,Route to standard manual review
+H21844,0.218,oui,Faible,Auto-approve / fast-track underwriting
+H21845,0.2025,oui,Faible,Auto-approve / fast-track underwriting
+H21846,0.1978,oui,Faible,Auto-approve / fast-track underwriting
+H21847,0.2668,oui,Moyen,Route to standard manual review
+H21848,0.1244,non,Faible,Auto-approve / fast-track underwriting
+H21849,0.0838,non,Faible,Auto-approve / fast-track underwriting
+H21850,0.2195,oui,Faible,Auto-approve / fast-track underwriting
+H21851,0.2589,oui,Moyen,Route to standard manual review
+H21852,0.1782,oui,Faible,Auto-approve / fast-track underwriting
+H21853,0.1697,non,Faible,Auto-approve / fast-track underwriting
+H21854,0.3631,oui,Moyen,Route to standard manual review
+H21855,0.1727,non,Faible,Auto-approve / fast-track underwriting
+H21856,0.4375,oui,Moyen,Route to standard manual review
+H21857,0.1421,non,Faible,Auto-approve / fast-track underwriting
+H21858,0.0883,non,Faible,Auto-approve / fast-track underwriting
+H21859,0.3275,oui,Moyen,Route to standard manual review
+H21860,0.4177,oui,Moyen,Route to standard manual review
+H21861,0.2692,oui,Moyen,Route to standard manual review
+H21862,0.1167,non,Faible,Auto-approve / fast-track underwriting
+H21863,0.3383,oui,Moyen,Route to standard manual review
+H21864,0.2193,oui,Faible,Auto-approve / fast-track underwriting
+H21865,0.2423,oui,Moyen,Route to standard manual review
+H21866,0.0816,non,Faible,Auto-approve / fast-track underwriting
+H21867,0.2838,oui,Moyen,Route to standard manual review
+H21868,0.2487,oui,Moyen,Route to standard manual review
+H21869,0.151,non,Faible,Auto-approve / fast-track underwriting
+H21870,0.0669,non,Faible,Auto-approve / fast-track underwriting
+H21871,0.2481,oui,Moyen,Route to standard manual review
+H21872,0.3224,oui,Moyen,Route to standard manual review
+H21873,0.0644,non,Faible,Auto-approve / fast-track underwriting
+H21874,0.1877,oui,Faible,Auto-approve / fast-track underwriting
+H21875,0.1454,non,Faible,Auto-approve / fast-track underwriting
+H21876,0.0706,non,Faible,Auto-approve / fast-track underwriting
+H21877,0.361,oui,Moyen,Route to standard manual review
+H21878,0.3438,oui,Moyen,Route to standard manual review
+H21879,0.1922,oui,Faible,Auto-approve / fast-track underwriting
+H21880,0.3554,oui,Moyen,Route to standard manual review
+H21881,0.202,oui,Faible,Auto-approve / fast-track underwriting
+H21882,0.0768,non,Faible,Auto-approve / fast-track underwriting
+H21883,0.1769,oui,Faible,Auto-approve / fast-track underwriting
+H21884,0.1323,non,Faible,Auto-approve / fast-track underwriting
+H21885,0.1975,oui,Faible,Auto-approve / fast-track underwriting
+H21886,0.1719,non,Faible,Auto-approve / fast-track underwriting
+H21887,0.5561,oui,Élevé,Escalate to senior underwriter + request inspection
+H21888,0.1598,non,Faible,Auto-approve / fast-track underwriting
+H21889,0.2584,oui,Moyen,Route to standard manual review
+H21890,0.4184,oui,Moyen,Route to standard manual review
+H21891,0.3112,oui,Moyen,Route to standard manual review
+H21892,0.0964,non,Faible,Auto-approve / fast-track underwriting
+H21893,0.0824,non,Faible,Auto-approve / fast-track underwriting
+H21894,0.1125,non,Faible,Auto-approve / fast-track underwriting
+H21895,0.0813,non,Faible,Auto-approve / fast-track underwriting
+H21896,0.233,oui,Moyen,Route to standard manual review
+H21897,0.097,non,Faible,Auto-approve / fast-track underwriting
+H21898,0.2817,oui,Moyen,Route to standard manual review
+H21899,0.1053,non,Faible,Auto-approve / fast-track underwriting
+H21900,0.0673,non,Faible,Auto-approve / fast-track underwriting
+H21901,0.2385,oui,Moyen,Route to standard manual review
+H21902,0.2501,oui,Moyen,Route to standard manual review
+H21903,0.0806,non,Faible,Auto-approve / fast-track underwriting
+H21904,0.2611,oui,Moyen,Route to standard manual review
+H21905,0.1186,non,Faible,Auto-approve / fast-track underwriting
+H21906,0.3129,oui,Moyen,Route to standard manual review
+H21907,0.1128,non,Faible,Auto-approve / fast-track underwriting
+H21908,0.1627,non,Faible,Auto-approve / fast-track underwriting
+H21909,0.1394,non,Faible,Auto-approve / fast-track underwriting
+H21910,0.2426,oui,Moyen,Route to standard manual review
+H21911,0.2698,oui,Moyen,Route to standard manual review
+H21912,0.079,non,Faible,Auto-approve / fast-track underwriting
+H21913,0.1135,non,Faible,Auto-approve / fast-track underwriting
+H21914,0.1335,non,Faible,Auto-approve / fast-track underwriting
+H21915,0.3855,oui,Moyen,Route to standard manual review
+H21916,0.4391,oui,Moyen,Route to standard manual review
+H21917,0.1737,non,Faible,Auto-approve / fast-track underwriting
+H21918,0.1652,non,Faible,Auto-approve / fast-track underwriting
+H21919,0.1402,non,Faible,Auto-approve / fast-track underwriting
+H21920,0.1634,non,Faible,Auto-approve / fast-track underwriting
+H21921,0.0659,non,Faible,Auto-approve / fast-track underwriting
+H21922,0.2836,oui,Moyen,Route to standard manual review
+H21923,0.2028,oui,Faible,Auto-approve / fast-track underwriting
+H21924,0.1983,oui,Faible,Auto-approve / fast-track underwriting
+H21925,0.2587,oui,Moyen,Route to standard manual review
+H21926,0.1676,non,Faible,Auto-approve / fast-track underwriting
+H21927,0.3686,oui,Moyen,Route to standard manual review
+H21928,0.1401,non,Faible,Auto-approve / fast-track underwriting
+H21929,0.4438,oui,Élevé,Escalate to senior underwriter + request inspection
+H21930,0.2633,oui,Moyen,Route to standard manual review
+H21931,0.2105,oui,Faible,Auto-approve / fast-track underwriting
+H21932,0.2258,oui,Moyen,Route to standard manual review
+H21933,0.3163,oui,Moyen,Route to standard manual review
+H21934,0.1588,non,Faible,Auto-approve / fast-track underwriting
+H21935,0.1606,non,Faible,Auto-approve / fast-track underwriting
+H21936,0.1379,non,Faible,Auto-approve / fast-track underwriting
+H21937,0.0703,non,Faible,Auto-approve / fast-track underwriting
+H21938,0.4187,oui,Moyen,Route to standard manual review
+H21939,0.2804,oui,Moyen,Route to standard manual review
+H21940,0.2036,oui,Faible,Auto-approve / fast-track underwriting
+H21941,0.133,non,Faible,Auto-approve / fast-track underwriting
+H21942,0.3085,oui,Moyen,Route to standard manual review
+H21943,0.3272,oui,Moyen,Route to standard manual review
+H21944,0.3518,oui,Moyen,Route to standard manual review
+H21945,0.4004,oui,Moyen,Route to standard manual review
+H21946,0.3393,oui,Moyen,Route to standard manual review
+H21947,0.0856,non,Faible,Auto-approve / fast-track underwriting
+H21948,0.088,non,Faible,Auto-approve / fast-track underwriting
+H21949,0.1522,non,Faible,Auto-approve / fast-track underwriting
+H21950,0.1662,non,Faible,Auto-approve / fast-track underwriting
+H21951,0.0731,non,Faible,Auto-approve / fast-track underwriting
+H21952,0.2975,oui,Moyen,Route to standard manual review
+H21953,0.33,oui,Moyen,Route to standard manual review
+H21954,0.1975,oui,Faible,Auto-approve / fast-track underwriting
+H21955,0.1111,non,Faible,Auto-approve / fast-track underwriting
+H21956,0.0911,non,Faible,Auto-approve / fast-track underwriting
+H21957,0.2495,oui,Moyen,Route to standard manual review
+H21958,0.4146,oui,Moyen,Route to standard manual review
+H21959,0.3914,oui,Moyen,Route to standard manual review
+H21960,0.4824,oui,Élevé,Escalate to senior underwriter + request inspection
+H21961,0.07,non,Faible,Auto-approve / fast-track underwriting
+H21962,0.2182,oui,Faible,Auto-approve / fast-track underwriting
+H21963,0.0877,non,Faible,Auto-approve / fast-track underwriting
+H21964,0.1903,oui,Faible,Auto-approve / fast-track underwriting
+H21965,0.1292,non,Faible,Auto-approve / fast-track underwriting
+H21966,0.2409,oui,Moyen,Route to standard manual review
+H21967,0.1725,non,Faible,Auto-approve / fast-track underwriting
+H21968,0.1185,non,Faible,Auto-approve / fast-track underwriting
+H21969,0.3569,oui,Moyen,Route to standard manual review
+H21970,0.2441,oui,Moyen,Route to standard manual review
+H21971,0.2249,oui,Moyen,Route to standard manual review
+H21972,0.2035,oui,Faible,Auto-approve / fast-track underwriting
+H21973,0.0821,non,Faible,Auto-approve / fast-track underwriting
+H21974,0.1729,non,Faible,Auto-approve / fast-track underwriting
+H21975,0.0987,non,Faible,Auto-approve / fast-track underwriting
+H21976,0.3191,oui,Moyen,Route to standard manual review
+H21977,0.2187,oui,Faible,Auto-approve / fast-track underwriting
+H21978,0.2052,oui,Faible,Auto-approve / fast-track underwriting
+H21979,0.2651,oui,Moyen,Route to standard manual review
+H21980,0.1451,non,Faible,Auto-approve / fast-track underwriting
+H21981,0.1862,oui,Faible,Auto-approve / fast-track underwriting
+H21982,0.2649,oui,Moyen,Route to standard manual review
+H21983,0.2791,oui,Moyen,Route to standard manual review
+H21984,0.1724,non,Faible,Auto-approve / fast-track underwriting
+H21985,0.2139,oui,Faible,Auto-approve / fast-track underwriting
+H21986,0.1268,non,Faible,Auto-approve / fast-track underwriting
+H21987,0.1631,non,Faible,Auto-approve / fast-track underwriting
+H21988,0.1141,non,Faible,Auto-approve / fast-track underwriting
+H21989,0.17,non,Faible,Auto-approve / fast-track underwriting
+H21990,0.1717,non,Faible,Auto-approve / fast-track underwriting
+H21991,0.3861,oui,Moyen,Route to standard manual review
+H21992,0.1282,non,Faible,Auto-approve / fast-track underwriting
+H21993,0.3011,oui,Moyen,Route to standard manual review
+H21994,0.0579,non,Faible,Auto-approve / fast-track underwriting
+H21995,0.3172,oui,Moyen,Route to standard manual review
+H21996,0.1643,non,Faible,Auto-approve / fast-track underwriting
+H21997,0.3069,oui,Moyen,Route to standard manual review
+H21998,0.1121,non,Faible,Auto-approve / fast-track underwriting
+H21999,0.1763,oui,Faible,Auto-approve / fast-track underwriting
+H22000,0.1251,non,Faible,Auto-approve / fast-track underwriting
+H22001,0.2697,oui,Moyen,Route to standard manual review
+H22002,0.3858,oui,Moyen,Route to standard manual review
+H22003,0.3335,oui,Moyen,Route to standard manual review
+H22004,0.2664,oui,Moyen,Route to standard manual review
+H22005,0.3057,oui,Moyen,Route to standard manual review
+H22006,0.2187,oui,Faible,Auto-approve / fast-track underwriting
+H22007,0.1721,non,Faible,Auto-approve / fast-track underwriting
+H22008,0.2289,oui,Moyen,Route to standard manual review
+H22009,0.2533,oui,Moyen,Route to standard manual review
+H22010,0.3611,oui,Moyen,Route to standard manual review
+H22011,0.1949,oui,Faible,Auto-approve / fast-track underwriting
+H22012,0.122,non,Faible,Auto-approve / fast-track underwriting
+H22013,0.1059,non,Faible,Auto-approve / fast-track underwriting
+H22014,0.1361,non,Faible,Auto-approve / fast-track underwriting
+H22015,0.369,oui,Moyen,Route to standard manual review
+H22016,0.1139,non,Faible,Auto-approve / fast-track underwriting
+H22017,0.3132,oui,Moyen,Route to standard manual review
+H22018,0.1081,non,Faible,Auto-approve / fast-track underwriting
+H22019,0.2685,oui,Moyen,Route to standard manual review
+H22020,0.1523,non,Faible,Auto-approve / fast-track underwriting
+H22021,0.3711,oui,Moyen,Route to standard manual review
+H22022,0.2775,oui,Moyen,Route to standard manual review
+H22023,0.1974,oui,Faible,Auto-approve / fast-track underwriting
+H22024,0.1109,non,Faible,Auto-approve / fast-track underwriting
+H22025,0.1232,non,Faible,Auto-approve / fast-track underwriting
+H22026,0.303,oui,Moyen,Route to standard manual review
+H22027,0.1835,oui,Faible,Auto-approve / fast-track underwriting
+H22028,0.1724,non,Faible,Auto-approve / fast-track underwriting
+H22029,0.1998,oui,Faible,Auto-approve / fast-track underwriting
+H22030,0.1018,non,Faible,Auto-approve / fast-track underwriting
+H22031,0.1781,oui,Faible,Auto-approve / fast-track underwriting
+H22032,0.1722,non,Faible,Auto-approve / fast-track underwriting
+H22033,0.25,oui,Moyen,Route to standard manual review
+H22034,0.1863,oui,Faible,Auto-approve / fast-track underwriting
+H22035,0.1791,oui,Faible,Auto-approve / fast-track underwriting
+H22036,0.1124,non,Faible,Auto-approve / fast-track underwriting
+H22037,0.1779,oui,Faible,Auto-approve / fast-track underwriting
+H22038,0.205,oui,Faible,Auto-approve / fast-track underwriting
+H22039,0.1147,non,Faible,Auto-approve / fast-track underwriting
+H22040,0.3685,oui,Moyen,Route to standard manual review
+H22041,0.2185,oui,Faible,Auto-approve / fast-track underwriting
+H22042,0.1349,non,Faible,Auto-approve / fast-track underwriting
+H22043,0.2421,oui,Moyen,Route to standard manual review
+H22044,0.3725,oui,Moyen,Route to standard manual review
+H22045,0.2518,oui,Moyen,Route to standard manual review
+H22046,0.2802,oui,Moyen,Route to standard manual review
+H22047,0.2442,oui,Moyen,Route to standard manual review
+H22048,0.4593,oui,Élevé,Escalate to senior underwriter + request inspection
+H22049,0.1055,non,Faible,Auto-approve / fast-track underwriting
+H22050,0.2791,oui,Moyen,Route to standard manual review
+H22051,0.1575,non,Faible,Auto-approve / fast-track underwriting
+H22052,0.0819,non,Faible,Auto-approve / fast-track underwriting
+H22053,0.2909,oui,Moyen,Route to standard manual review
+H22054,0.3012,oui,Moyen,Route to standard manual review
+H22055,0.3223,oui,Moyen,Route to standard manual review
+H22056,0.201,oui,Faible,Auto-approve / fast-track underwriting
+H22057,0.111,non,Faible,Auto-approve / fast-track underwriting
+H22058,0.175,non,Faible,Auto-approve / fast-track underwriting
+H22059,0.2332,oui,Moyen,Route to standard manual review
+H22060,0.1936,oui,Faible,Auto-approve / fast-track underwriting
+H22061,0.2893,oui,Moyen,Route to standard manual review
+H22062,0.3136,oui,Moyen,Route to standard manual review
+H22063,0.1242,non,Faible,Auto-approve / fast-track underwriting
+H22064,0.3891,oui,Moyen,Route to standard manual review
+H22065,0.1416,non,Faible,Auto-approve / fast-track underwriting
+H22066,0.1949,oui,Faible,Auto-approve / fast-track underwriting
+H22067,0.1175,non,Faible,Auto-approve / fast-track underwriting
+H22068,0.1368,non,Faible,Auto-approve / fast-track underwriting
+H22069,0.2094,oui,Faible,Auto-approve / fast-track underwriting
+H22070,0.3079,oui,Moyen,Route to standard manual review
+H22071,0.3217,oui,Moyen,Route to standard manual review
+H22072,0.1511,non,Faible,Auto-approve / fast-track underwriting
+H22073,0.2561,oui,Moyen,Route to standard manual review
+H22074,0.2382,oui,Moyen,Route to standard manual review
+H22075,0.1478,non,Faible,Auto-approve / fast-track underwriting
+H22076,0.1055,non,Faible,Auto-approve / fast-track underwriting
+H22077,0.335,oui,Moyen,Route to standard manual review
+H22078,0.2423,oui,Moyen,Route to standard manual review
+H22079,0.3059,oui,Moyen,Route to standard manual review
+H22080,0.3454,oui,Moyen,Route to standard manual review
+H22081,0.0936,non,Faible,Auto-approve / fast-track underwriting
+H22082,0.2982,oui,Moyen,Route to standard manual review
+H22083,0.1072,non,Faible,Auto-approve / fast-track underwriting
+H22084,0.1944,oui,Faible,Auto-approve / fast-track underwriting
+H22085,0.2779,oui,Moyen,Route to standard manual review
+H22086,0.2202,oui,Faible,Auto-approve / fast-track underwriting
+H22087,0.2965,oui,Moyen,Route to standard manual review
+H22088,0.2571,oui,Moyen,Route to standard manual review
+H22089,0.2871,oui,Moyen,Route to standard manual review
+H22090,0.1345,non,Faible,Auto-approve / fast-track underwriting
+H22091,0.1902,oui,Faible,Auto-approve / fast-track underwriting
+H22092,0.1417,non,Faible,Auto-approve / fast-track underwriting
+H22093,0.1374,non,Faible,Auto-approve / fast-track underwriting
+H22094,0.1158,non,Faible,Auto-approve / fast-track underwriting
+H22095,0.2946,oui,Moyen,Route to standard manual review
+H22096,0.3658,oui,Moyen,Route to standard manual review
+H22097,0.479,oui,Élevé,Escalate to senior underwriter + request inspection
+H22098,0.1191,non,Faible,Auto-approve / fast-track underwriting
+H22099,0.2238,oui,Moyen,Route to standard manual review
+H22100,0.3618,oui,Moyen,Route to standard manual review
+H22101,0.0853,non,Faible,Auto-approve / fast-track underwriting
+H22102,0.1038,non,Faible,Auto-approve / fast-track underwriting
+H22103,0.1511,non,Faible,Auto-approve / fast-track underwriting
+H22104,0.2646,oui,Moyen,Route to standard manual review
+H22105,0.2002,oui,Faible,Auto-approve / fast-track underwriting
+H22106,0.3175,oui,Moyen,Route to standard manual review
+H22107,0.0655,non,Faible,Auto-approve / fast-track underwriting
+H22108,0.115,non,Faible,Auto-approve / fast-track underwriting
+H22109,0.3135,oui,Moyen,Route to standard manual review
+H22110,0.0831,non,Faible,Auto-approve / fast-track underwriting
+H22111,0.2706,oui,Moyen,Route to standard manual review
+H22112,0.1662,non,Faible,Auto-approve / fast-track underwriting
+H22113,0.1935,oui,Faible,Auto-approve / fast-track underwriting
+H22114,0.1688,non,Faible,Auto-approve / fast-track underwriting
+H22115,0.3057,oui,Moyen,Route to standard manual review
+H22116,0.3565,oui,Moyen,Route to standard manual review
+H22117,0.5152,oui,Élevé,Escalate to senior underwriter + request inspection
+H22118,0.2669,oui,Moyen,Route to standard manual review
+H22119,0.2242,oui,Moyen,Route to standard manual review
+H22120,0.2603,oui,Moyen,Route to standard manual review
+H22121,0.0633,non,Faible,Auto-approve / fast-track underwriting
+H22122,0.3723,oui,Moyen,Route to standard manual review
+H22123,0.104,non,Faible,Auto-approve / fast-track underwriting
+H22124,0.1848,oui,Faible,Auto-approve / fast-track underwriting
+H22125,0.4128,oui,Moyen,Route to standard manual review
+H22126,0.3063,oui,Moyen,Route to standard manual review
+H22127,0.315,oui,Moyen,Route to standard manual review
+H22128,0.1628,non,Faible,Auto-approve / fast-track underwriting
+H22129,0.3015,oui,Moyen,Route to standard manual review
+H22130,0.1943,oui,Faible,Auto-approve / fast-track underwriting
+H22131,0.2655,oui,Moyen,Route to standard manual review
+H22132,0.0785,non,Faible,Auto-approve / fast-track underwriting
+H22133,0.1937,oui,Faible,Auto-approve / fast-track underwriting
+H22134,0.0968,non,Faible,Auto-approve / fast-track underwriting
+H22135,0.1736,non,Faible,Auto-approve / fast-track underwriting
+H22136,0.1304,non,Faible,Auto-approve / fast-track underwriting
+H22137,0.3503,oui,Moyen,Route to standard manual review
+H22138,0.1332,non,Faible,Auto-approve / fast-track underwriting
+H22139,0.1301,non,Faible,Auto-approve / fast-track underwriting
+H22140,0.335,oui,Moyen,Route to standard manual review
+H22141,0.2409,oui,Moyen,Route to standard manual review
+H22142,0.2505,oui,Moyen,Route to standard manual review
+H22143,0.1922,oui,Faible,Auto-approve / fast-track underwriting
+H22144,0.1091,non,Faible,Auto-approve / fast-track underwriting
+H22145,0.2064,oui,Faible,Auto-approve / fast-track underwriting
+H22146,0.3798,oui,Moyen,Route to standard manual review
